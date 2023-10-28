@@ -1,0 +1,2132 @@
+question,answer
+What certificate does [Pilot_NYC05FA054] have?,AirlineTransport;FlightInstructor;Commercial
+What is the second event associated with [AccidentNumber_MKC90LA021]?,FORCED_LANDING
+What instructor rating does [Pilot_LAX02LA037] have?,Airplane Single-engine
+What certificate does [Pilot_ATL03LA101] have?,Private
+What caused [AccidentNumber_FTW93LA202]?,PREFLIGHTPLANNING/PREPARATION|FLUIDFUEL|TERRAINCONDITION
+What is the airplane rating associated with [Pilot_SEA02LA046]?,Multi-engineLand;Single-engineLand
+What environmental issue caused [AccidentNumber_IAD05LA071]?,___Unknown___EnvironmentalIssue
+What is the aircraft issue that caused [AccidentNumber_SEA02FA036]?,___Unknown___AircraftIssue
+What airspace is associated with [AccidentNumber_LAX05LA025]?,AirportInformation
+What is the landing gear associated with [Registration_N21468]?,Tailwheel
+What is the second event associated with [AccidentNumber_LAX07TA051]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What aircraft category does [Registration_N185NR] belong to?,Airplane
+What engine is associated with [Registration_N68714]?,1Reciprocating
+What is the aircraft issue that caused [AccidentNumber_DEN05LA055]?,___Unknown___AircraftIssue
+What was the result of the last inspection for [Registration_N957T]?,Annual
+What certificate does [Pilot_CHI01LA303] have?,Private
+What is the engine manufacturer associated with [Registration_N5507V]?,Lycoming
+What medical certification does [Pilot_CHI05LA050] have?,Class 3 With Waivers/Limitations
+What is the third event associated with [AccidentNumber_CHI98LA089]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What caused [AccidentNumber_CHI89FA040]?,ICE/FROSTREMOVALFROMAIRCRAFT|WEATHERCONDITION|DESIGNSTRESSLIMITSOFAIRCRAFT
+What is the aircraft damage associated with [AccidentNumber_ATL03FA052]?,Destroyed
+What airspace is associated with [AccidentNumber_DFW05CA097]?,ClassE
+What airspace is associated with [AccidentNumber_DEN03LA061]?,ClassG
+What is the airframe total time associated with [Registration_N1933B]?,___Unknown___AirframeTotalTime
+What airspace is associated with [AccidentNumber_NYC05FA026]?,AirportInformation
+What is the first event associated with [AccidentNumber_MIA94LA129]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the Visual Flight Rules approach associated with [AccidentNumber_IAD02LA055]?,FullStop;TrafficPattern
+What flight plan was filed for [AccidentNumber_DEN04FA043]?,IFR
+What is the aircraft damage associated with [AccidentNumber_CHI03LA032]?,Substantial
+What is the second event associated with [AccidentNumber_ATL04LA001]?,FORCED_LANDING
+What engine is associated with [Registration_N233TR]?,1Reciprocating
+What is the engine manufacturer associated with [Registration_N127RB]?,Lycoming
+What does [Registration_N421DG] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the first event associated with [AccidentNumber_FTW04LA053]?,LOSS_OF_ENGINE_POWER
+What is the seat occupancy associated with [Pilot_CHI03LA143]?,Left
+What caused [AccidentNumber_LAX04CA222]?,DIRECTIONALCONTROL|LACKOFFAMILIARITYWITHAIRCRAFT|GROUNDLOOP/SWERVE
+What instructor rating does [Pilot_ATL02FA058] have?,Airplane Multi-engine; Airplane Single-engine; Instrument Airplane
+What is the aircraft manufacturer associated with [Registration_N4606X]?,Cessna
+What is the first event associated with [AccidentNumber_LAX04LA254]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the Flight Crew associated with [AccidentNumber_ANC06LA001]?,PILOT_IN_COMMAND
+What is the third event associated with [AccidentNumber_MIA88FA001]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Aircraft Explosion associated with [AccidentNumber_CHI04FA203]?,On-Ground
+What does [Registration_N6106V] have in terms of an emergency locator transmitter?,"Installed, activated, did not aid in locating accident"
+What is the engine manufacturer associated with [Registration_N4123R]?,Lycoming
+What is the second event associated with [AccidentNumber_FTW93LA079]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the third event associated with [AccidentNumber_CHI81LA106]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What passanger injury is associated with [AccidentNumber_CHI01LA078]?,1 None
+What are the conditions at the accident site associated with [AccidentNumber_LAX03FA057]?,Visual Conditions
+What aircraft category does [Registration_N31BN] belong to?,Airplane
+What is the Visual Flight Rules approach associated with [AccidentNumber_DEN03LA062]?,___Unknown___VisualFlightRulesApproach
+What is the crew injury associated with [AccidentNumber_FTW03LA069]?,1 Serious
+What is the crew injury associated with [AccidentNumber_DEN05LA055]?,2 None
+What is the engine manufacturer associated with [Registration_N56715]?,Lycoming
+What is the Flight Crew associated with [AccidentNumber_FTW89LA035]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_ATL86FA156]?,PILOT_IN_COMMAND
+What is the first event associated with [AccidentNumber_LAX86LA051]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What medical certification does [Pilot_ATL03LA051] have?,Class 1 Valid Medical--no waivers/lim.
+What is the third event associated with [AccidentNumber_IAD98FA032]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_ANC03LA016]?,PILOT_IN_COMMAND
+What caused [AccidentNumber_ATL84FA111]?,FLIGHTPLANNING/DECISION|DESIGNSTRESSLIMITSOFAIRCRAFT|VFRFLIGHTINTOIMC|PROPERALTITUDE|OVERCONFIDENCEINPERSONALABILITY|LACKOFTOTALINSTRUMENTTIME|AIRSPEED|PREFLIGHTBRIEFINGSERVICE|FLIGHTINTOKNOWNADVERSEWEATHER|AIRCRAFTHANDLING
+What is the restraint used associated with [Pilot_CHI04CA113]?,Seatbelt
+What is the third event associated with [AccidentNumber_ANC88LA034]?,MAIN_GEAR_COLLAPSED
+What is the lowest cloud condition associated with [AccidentNumber_LAX02LA074]?,Clear
+What engine is associated with [Registration_N8547N]?,1Reciprocating
+What is the second event associated with [AccidentNumber_ANC03FA106]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the second event associated with [AccidentNumber_IAD98LA088]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What are the conditions at the accident site associated with [AccidentNumber_LAX05FA193]?,Instrument Conditions
+What is the clearance associated with [AccidentNumber_MIA02LA002]?,VFR
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_SEA88FA054]?,OTHER_MAINTENANCE_PERSONNEL
+What is the instrument flight rules approach associated with [AccidentNumber_MIA04LA050]?,___Unknown___InstrumentFlightRulesApproach
+What is the Flight Crew associated with [AccidentNumber_NYC07CA093]?,DUAL_STUDENT|PILOT_IN_COMMAND(CFI)
+What does [Registration_N182UA] have in terms of an emergency locator transmitter?,___Unknown___ELT
+What environmental issue caused [AccidentNumber_ATL02LA029]?,___Unknown___EnvironmentalIssue
+What is the Flight Crew associated with [AccidentNumber_MIA05CA068]?,PILOT_IN_COMMAND
+What is the total injury associated with [AccidentNumber_ANC03LA017]?,1 None
+What engine is associated with [Registration_N60539]?,1Reciprocating
+What is the runway surface condition associated with [AccidentNumber_ATL02LA149]?,___Unknown___RunwaySurfaceCondition
+What environmental issue caused [AccidentNumber_ATL03LA022]?,___Unknown___EnvironmentalIssue
+What is the Flight Crew associated with [AccidentNumber_ATL88LA208]?,PILOT_IN_COMMAND
+What is the Federal Aviation Regulation associated with [AccidentNumber_ATL04CA172]?,Part91GeneralAviation-Personal
+What medical certification does [Pilot_MIA03LA035] have?,Class 3 Expired
+What is the engine model associated with [Registration_N88BM]?,O-320-E2D
+What is the Flight Crew associated with [AccidentNumber_MIA02LA002]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_CHI97LA241]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_MIA89LA143]?,PILOT_IN_COMMAND
+What was the result of the last inspection for [Registration_N985SA]?,100 Hour
+What is the engine manufacturer associated with [Registration_N3086R]?,Continental
+What is the condition of light associated with [AccidentNumber_FTW03LA069]?,Day
+What airworthiness certificate does [Registration_N32DS] have?,Experimental
+What is the engine manufacturer associated with [Registration_N4123K]?,Continental
+What [instrument rating] does [Pilot_DEN03LA117] have?,Airplane
+What caused [AccidentNumber_MIA92GA002]?,FUELCONSUMPTIONCALCULATIONS|FLIGHTPLANNING/DECISION|FLUIDFUEL
+What engine is associated with [Registration_N212CF]?,1Reciprocating
+What certificate does [Pilot_ANC03LA010] have?,Commercial
+What is the airframe total time associated with [Registration_N62269]?,___Unknown___AirframeTotalTime
+What is the second event associated with [AccidentNumber_CHI07CA001]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What caused [AccidentNumber_SEA96LA037]?,AIRSPEED|OBJECT|LIFTOFF|TERRAINCONDITION
+What was the result of the last inspection for [Registration_N14843]?,Annual
+What is the second event associated with [AccidentNumber_DEN87LA078]?,NOSE_GEAR_COLLAPSED
+What is the aircraft issue that caused [AccidentNumber_NYC02LA090]?,___Unknown___AircraftIssue
+What medical certification does [Pilot_ATL01LA101] have?,Class 3 Valid Medical--w/ waivers/lim.
+What is the second event associated with [AccidentNumber_SEA98LA029]?,FORCED_LANDING
+What is the landing gear associated with [Registration_N72598]?,Tricycle
+What caused [AccidentNumber_ANC87LA088]?,DIRECTIONALCONTROL|AIRCRAFTHANDLING|TERRAINCONDITION|ABORT
+What is the runway surface type associated with [AccidentNumber_FTW02LA228]?,___Unknown___RunwaySurfaceType
+What is the second event associated with [AccidentNumber_NYC96LA118]?,FORCED_LANDING
+What engine is associated with [Registration_N8917H]?,1Reciprocating
+What is the runway surface condition associated with [AccidentNumber_CHI01LA195]?,___Unknown___RunwaySurfaceCondition
+What is the third event associated with [AccidentNumber_CHI95LA113]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the aircraft issue that caused [AccidentNumber_FTW01LA045]?,___Unknown___AircraftIssue
+What is the airplane rating associated with [Pilot_LAX02FA038]?,Single-engineLand
+What passanger injury is associated with [AccidentNumber_CHI05CA208]?,1 None
+What is the seat occupancy associated with [Pilot_SEA04FA032]?,Left
+What does [Registration_N149CJ] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the third event associated with [AccidentNumber_NYC89LA209]?,NOSE_GEAR_COLLAPSED
+In which country did [AccidentNumber_CHI05CA060] occur?,MI
+What is the runway surface type associated with [AccidentNumber_DEN01LA158]?,___Unknown___RunwaySurfaceType
+What is the second event associated with [AccidentNumber_NYC88DHA01]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_SEA07LA118]?,PILOT_IN_COMMAND
+What is the lowest cloud condition associated with [AccidentNumber_IAD05LA051]?,___Unknown___LowestCloudCondition
+What certificate does [Pilot_ANC03LA087] have?,Private
+What is the Flight Crew associated with [AccidentNumber_BFO90LA019]?,PILOT_IN_COMMAND
+In which country did [AccidentNumber_FTW03LA034] occur?,TX
+What is the restraint used associated with [Pilot_LAX01LA231]?,"Seatbelt, Shoulder harness"
+What was the result of the last inspection for [Registration_N248JT]?,Annual
+What is the airplane rating associated with [Pilot_MIA01GA070]?,Single-engineLand
+What is the Flight Crew associated with [AccidentNumber_ANC01LA131]?,PILOT_IN_COMMAND
+What is the aircraft manufacturer associated with [Registration_N4123K]?,Piper
+What is the first event associated with [AccidentNumber_FTW96LA158]?,LOSS_OF_ENGINE_POWER
+What caused [AccidentNumber_BFO86FA038]?,SPATIALDISORIENTATION|JUDGMENT|PROCEDURES/DIRECTIVES|WEATHERCONDITION|FLIGHTPLANNING/DECISION|SELF|IFRPROCEDURE|LACKOFTOTALINSTRUMENTTIME
+What [instrument rating] does [Pilot_LAX03CA274] have?,Airplane
+What is the second event associated with [AccidentNumber_SEA96LA001]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What are the operating certificates held by [Registration_N149CJ]?,Flag carrier (121)
+What is the third event associated with [AccidentNumber_NYC89LA143]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the third event associated with [AccidentNumber_MIA88FA049]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the airplane rating associated with [Pilot_CHI01LA255]?,Multi-engineLand;Single-engineLand
+What is the restraint used associated with [Pilot_FTW02FA222]?,"Seatbelt, Shoulder harness"
+What is the aircraft manufacturer associated with [Registration_N2652W]?,Mooney
+What is the landing gear associated with [Registration_N1811N]?,Tricycle
+What is the crew injury associated with [AccidentNumber_NYC02FA126]?,1 Fatal
+What is the third event associated with [AccidentNumber_NYC07LA021]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the first event associated with [AccidentNumber_MKC84LA160]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the aircraft issue that caused [AccidentNumber_DEN03LA148]?,___Unknown___AircraftIssue
+What is the third event associated with [AccidentNumber_DEN01LA080]?,NOSE_OVER
+What does [Registration_N7471C] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the Flight Crew associated with [AccidentNumber_SEA04FA032]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_ATL98LA089]?,PILOT_IN_COMMAND
+What is the engine manufacturer associated with [Registration_N444NM]?,Lycoming
+What is the total injury associated with [AccidentNumber_ATL04CA108]?,2 None
+What is the Flight Crew associated with [AccidentNumber_FTW91LA075]?,PILOT_IN_COMMAND
+What medical certification does [Pilot_LAX02LA245] have?,Class 3 Valid Medical--w/ waivers/lim.
+What airworthiness certificate does [Registration_N195S] have?,Normal
+What is the fourth event associated with [AccidentNumber_FTW86LA099]?,NOSE_OVER
+What caused [AccidentNumber_NYC87LA216]?,AIRSPEED|SUPERVISION|MANEUVER|STALL/MUSH
+What is the third event associated with [AccidentNumber_IAD97LA056]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What are the conditions at the accident site associated with [AccidentNumber_LAX01LA299]?,Visual Conditions
+What is the airplane rating associated with [Pilot_MIA01LA088]?,Multi-engineLand;Single-engineLand
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_LAX99LA293]?,COMPANY_MAINTENANCE_PERSONNEL
+What caused [AccidentNumber_FTW93LA028]?,DIRECTIONALCONTROL|STALL/MUSH
+What is the Federal Aviation Regulation associated with [AccidentNumber_ATL02LA009]?,Part91GeneralAviation-Personal
+What is the second event associated with [AccidentNumber_FTW84FA125]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the seat occupancy associated with [Pilot_CHI04LA026]?,Center
+What medical certification does [Pilot_LAX02LA074] have?,Class 2 Valid Medical--w/ waivers/lim.
+What does [Registration_N633KF] have in terms of an emergency locator transmitter?,___Unknown___ELT
+What is the total injury associated with [AccidentNumber_DEN04FA027A]?,1 None
+What is the runway surface condition associated with [AccidentNumber_NYC04CA022]?,Dry
+What is the first event associated with [AccidentNumber_NYC86LA028]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What is the Flight Crew associated with [AccidentNumber_FTW01LA001]?,PILOT_IN_COMMAND
+What is the engine model associated with [Registration_N4989A]?,O-470
+What is the first event associated with [AccidentNumber_MIA87LA065]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the first event associated with [AccidentNumber_ATL92LA055]?,HARD_LANDING
+What was the result of the last inspection for [Registration_N3525Y]?,100 Hour
+What is the Federal Aviation Regulation associated with [AccidentNumber_CHI03FA238B]?,Part91GeneralAviation-Business
+What is the airplane rating associated with [Pilot_NYC02FA126]?,Multi-engineLand;Single-engineLand
+What aircraft category does [Registration_N9199W] belong to?,Airplane
+What is the second event associated with [AccidentNumber_ATL86FA156]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What was the result of the last inspection for [Registration_N51192]?,100 Hour
+What is the second event associated with [AccidentNumber_NYC85FNC02]?,LOSS_OF_ENGINE_POWER
+What is the condition of light associated with [AccidentNumber_MIA02FA048]?,___Unknown___ConditionOfLight
+What caused [AccidentNumber_SEA06LA112]?,WEATHERCONDITION|TERRAINCONDITION|VFRFLIGHTINTOIMC|DISTANCE/ALTITUDE
+What is the first event associated with [AccidentNumber_MKC85FA120]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the second event associated with [AccidentNumber_BFO88LA043]?,MAIN_GEAR_COLLAPSED
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_MIA03LA139]?,OTHER_MAINTENANCE_PERSONNEL
+What is the Flight Crew associated with [AccidentNumber_ATL97FA095]?,PILOT_IN_COMMAND
+What is the Federal Aviation Regulation associated with [AccidentNumber_ANC01LA066]?,Part91GeneralAviation-Business
+What is the second event associated with [AccidentNumber_ANC87LA134]?,NOSE_OVER
+What is the aircraft damage associated with [AccidentNumber_DFW05CA097]?,Substantial
+What is the Flight Crew associated with [AccidentNumber_CHI90FA252]?,PILOT_IN_COMMAND
+What aircraft category does [Registration_N59180] belong to?,Airplane
+What is the restraint used associated with [Pilot_NYC02LA024]?,"Seatbelt, Shoulder harness"
+What caused [AccidentNumber_ANC93LA051]?,AIRPORTFACILITIESRUNWAY/LANDINGAREACONDITION|LACKOFTOTALEXPERIENCEINTYPEOFAIRCRAFT|ABORT|LIFTOFF|LACKOFTOTALEXPERIENCEINTYPEOPERATION
+What is the crew injury associated with [AccidentNumber_ANC04LA034]?,2 None
+What is the Visual Flight Rules approach associated with [AccidentNumber_LAX04LA254]?,ForcedLanding
+What is the runway surface condition associated with [AccidentNumber_LAX02LA035]?,Dry
+What is the landing gear associated with [Registration_N5091X]?,Tailwheel
+What is the seat occupancy associated with [Pilot_ATL03LA086]?,Left
+What is the second event associated with [AccidentNumber_ATL86LA236]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the runway surface type associated with [AccidentNumber_MIA04CA055]?,___Unknown___RunwaySurfaceType
+What is the aircraft issue that caused [AccidentNumber_CHI05CA208]?,___Unknown___AircraftIssue
+What caused [AccidentNumber_ATL91FA120]?,REASONFOROCCURRENCEUNDETERMINED|PROCEDURES/DIRECTIVES|ROTORRPM
+What is the restraint used associated with [Pilot_NYC04FA136]?,"Seatbelt, Shoulder harness"
+What does [Registration_N317LC] have in terms of an emergency locator transmitter?,"Installed, activated, did not aid in locating accident"
+What is the total injury associated with [AccidentNumber_FTW02LA170]?,1 None
+What caused [AccidentNumber_CHI86LA097]?,OVERCONFIDENCEINPERSONALABILITY|AIRCRAFTWEIGHTANDBALANCE|OBJECT|JUDGMENT|AIRCRAFTHANDLING|PERFORMANCEDATA
+What is the Flight Crew associated with [AccidentNumber_ANC93LA001]?,PILOT_IN_COMMAND
+What caused [AccidentNumber_FTW88FA085]?,PLANNING/DECISION|SELF|FLIGHTINTOKNOWNADVERSEWEATHER|WEATHERCONDITION
+What is the Federal Aviation Regulation associated with [AccidentNumber_CHI05CA085]?,Part91GeneralAviation-Business
+What is the engine manufacturer associated with [Registration_N4249C]?,Continental
+What airspace is associated with [AccidentNumber_CHI03LA002]?,ClassE
+What caused [AccidentNumber_CHI82DA020]?,AIRSPEED|DISTANCE|WEATHERCONDITION|TERRAINCONDITION|ALTITUDE
+What is the second event associated with [AccidentNumber_ANC07LA018]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the third event associated with [AccidentNumber_MKC89LA032]?,NOSE_OVER
+What is the aircraft issue that caused [AccidentNumber_LAX05FA193]?,___Unknown___AircraftIssue
+What engine is associated with [Registration_N8150F]?,1Reciprocating
+What is the airplane rating associated with [Pilot_DEN05LA109]?,Multi-engineLand;Single-engineLand
+What is the runway surface condition associated with [AccidentNumber_LAX05LA253]?,Dry
+What certificate does [Pilot_DFW05LA026] have?,Commercial
+What passanger injury is associated with [AccidentNumber_IAD01LA035]?,1 None
+What airspace is associated with [AccidentNumber_CHI01LA263]?,ClassG
+What is the lowest ceiling associated with [AccidentNumber_ANC01LA080]?,___Unknown___LowestCeiling
+What passanger injury is associated with [AccidentNumber_NYC02LA001]?,1 Serious
+What is the first event associated with [AccidentNumber_FTW91LA044]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the aircraft issue that caused [AccidentNumber_MIA05CA121]?,___Unknown___AircraftIssue
+What engine is associated with [Registration_N310WH]?,2Reciprocating
+What is the aircraft issue that caused [AccidentNumber_CHI02LA018]?,___Unknown___AircraftIssue
+What airworthiness certificate does [Registration_N289HG] have?,Normal
+What is the crew injury associated with [AccidentNumber_SEA05CA035]?,1 None
+What is the aircraft issue that caused [AccidentNumber_DEN01LA060]?,___Unknown___AircraftIssue
+What flight plan was filed for [AccidentNumber_LAX02LA039]?,Company VFR
+What is the Visual Flight Rules approach associated with [AccidentNumber_ANC05FA090]?,___Unknown___VisualFlightRulesApproach
+What is the lowest cloud condition associated with [AccidentNumber_SEA04LA178]?,___Unknown___LowestCloudCondition
+What is the second event associated with [AccidentNumber_NYC87DNE05]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What caused [AccidentNumber_FTW85LA303]?,WEATHEREVALUATION|CARBURETORHEAT|WEATHERCONDITION
+What is the Federal Aviation Regulation associated with [AccidentNumber_NYC02LA107]?,Part91GeneralAviation-Personal
+What is the restraint used associated with [Pilot_LAX04LA254]?,"Seatbelt, Shoulder harness"
+What is the condition of light associated with [AccidentNumber_DEN05CA001]?,Dawn
+What is the restraint used associated with [Pilot_CHI01LA079]?,"Seatbelt, Shoulder harness"
+What airspace is associated with [AccidentNumber_ATL05FA048]?,ClassG
+What airworthiness certificate does [Registration_N9696B] have?,Normal
+What is the airplane rating associated with [Pilot_NYC05FA026]?,Multi-engineLand
+What is the engine manufacturer associated with [Registration_N20840]?,Turbomeca
+What is the engine manufacturer associated with [Registration_N33N]?,Continental
+What is the aircraft issue that caused [AccidentNumber_MIA02LA038]?,___Unknown___AircraftIssue
+What is the runway surface condition associated with [AccidentNumber_SEA04LA064]?,___Unknown___RunwaySurfaceCondition
+What is the first event associated with [AccidentNumber_DEN87FA050]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_LOW_CEILING
+What is the Federal Aviation Regulation associated with [AccidentNumber_FTW03LA102]?,Part91GeneralAviation-Personal
+What is the aircraft issue that caused [AccidentNumber_MIA03CA103]?,___Unknown___AircraftIssue
+What caused [AccidentNumber_FTW82FRD09]?,REASONFOROCCURRENCEUNDETERMINED|STALL|AIRSPEED
+What is the Flight Crew associated with [AccidentNumber_ANC05LA093]?,PILOT_IN_COMMAND
+What is the seat occupancy associated with [Pilot_NYC02LA046]?,Front
+What environmental issue caused [AccidentNumber_CHI05LA050]?,___Unknown___EnvironmentalIssue
+What is the first event associated with [AccidentNumber_FTW87LA024]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What is the first event associated with [AccidentNumber_MKC85FA080]?,"IN_FLIGHT_COLLISION_WITH_OBJECT_-_WIRE,TRANSMISSION"
+What does [Registration_N117JB] have in terms of an emergency locator transmitter?,Not installed
+What is the runway surface type associated with [AccidentNumber_ANC03LA011]?,Gravel
+What is the first event associated with [AccidentNumber_BFO89LA049]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_OTHER
+What is the engine model associated with [Registration_N2842D]?,O-360
+What is the crew injury associated with [AccidentNumber_MIA02LA122]?,2 None
+What caused [AccidentNumber_MKC85FA080]?,VISUALLOOKOUT|OBJECT|CLEARANCE
+What is the Visual Flight Rules approach associated with [AccidentNumber_NYC02LA091]?,FullStop;TrafficPattern
+What instructor rating does [Pilot_FTW04LA090] have?,Airplane Multi-engine; Airplane Single-engine; Instrument Airplane
+What certificate does [Pilot_ANC02LA110] have?,Private
+What is the third event associated with [AccidentNumber_LAX91LA023]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+In which country did [AccidentNumber_NYC04LA063] occur?,PA
+What is the third event associated with [AccidentNumber_LAX95FA072]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the first event associated with [AccidentNumber_CHI05CA085]?,"DRAGGED_WING,ROTOR,POD,FLOAT_OR_TAIL/SKID"
+What is the runway surface condition associated with [AccidentNumber_CHI03FA238B]?,Dry
+What is the Flight Crew associated with [AccidentNumber_LAX95LA233]?,PILOT_IN_COMMAND
+What is the clearance associated with [AccidentNumber_ATL02LA148]?,___Unknown___TypeOfClearance
+What is the first event associated with [AccidentNumber_MIA87LA001]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the condition of light associated with [AccidentNumber_MIA03LA089]?,Day
+What is the condition of light associated with [AccidentNumber_MIA02LA165]?,Day
+What is the runway surface condition associated with [AccidentNumber_LAX03LA018]?,Dry
+In which country did [AccidentNumber_ANC01LA136] occur?,AK
+What certificate does [Pilot_MIA02FA048] have?,FlightInstructor;Commercial
+What aircraft model is associated with [Registration_N618MN]?,172N
+What is the airplane rating associated with [Pilot_LAX01LA135]?,Single-engineLand
+What caused [AccidentNumber_ANC96LA140]?,ENGINEASSEMBLYCRANKSHAFT|TERRAINCONDITION
+What flight plan was filed for [AccidentNumber_SEA02LA049]?,IFR
+What is the aircraft damage associated with [AccidentNumber_FTW04LA202A]?,Substantial
+What is the crew injury associated with [AccidentNumber_MIA02LA002]?,1 None
+What caused [AccidentNumber_ATL86LA068]?,PREFLIGHTPLANNING/PREPARATION|UNSUITABLETERRAINORTAKEOFF/LANDING/TAXIAREA|CLEARANCE|ABORTEDTAKEOFF|PERFORMANCEDATA
+What is the condition of light associated with [AccidentNumber_ATL01LA043]?,Day
+What is the Federal Aviation Regulation associated with [AccidentNumber_MIA02LA058]?,Part91GeneralAviation-Personal
+What is the condition of light associated with [AccidentNumber_LAX05LA002]?,Day
+What is the fourth event associated with [AccidentNumber_CHI90FA252]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Visual Flight Rules approach associated with [AccidentNumber_SEA02LA010]?,FullStop;TrafficPattern
+What is the engine model associated with [Registration_N1177M]?,O-320
+What is the second event associated with [AccidentNumber_CHI06LA124]?,FORCED_LANDING
+What was the result of the last inspection for [Registration_N5226]?,100 Hour
+What caused [AccidentNumber_ANC98LA090]?,PROPERTOUCHDOWNPOINT|GOAROUND|WEATHERCONDITION
+What is the engine manufacturer associated with [Registration_N1518Z]?,Pratt&Whitney
+What is the aircraft damage associated with [AccidentNumber_CHI05CA039]?,Substantial
+What are the conditions at the accident site associated with [AccidentNumber_ANC03LA011]?,Visual Conditions
+What is the total injury associated with [AccidentNumber_LAX02LA123]?,2 None
+What caused [AccidentNumber_FTW94LA217]?,TERRAINCONDITION|REASONFOROCCURRENCEUNDETERMINED|STALL
+What is the third event associated with [AccidentNumber_CHI93LA044]?,NOSE_DOWN
+What is the runway surface type associated with [AccidentNumber_LAX05LA253]?,Asphalt
+What is the aircraft damage associated with [AccidentNumber_ATL03LA022]?,Substantial
+What is the Flight Crew associated with [AccidentNumber_LAX89LA031]?,PILOT_IN_COMMAND
+What airspace is associated with [AccidentNumber_DEN01LA060]?,ClassG
+What caused [AccidentNumber_FTW93FA115]?,REASONFOROCCURRENCEUNDETERMINED|TERRAINCONDITION
+What engine is associated with [Registration_N2414P]?,1Reciprocating
+What is the second event associated with [AccidentNumber_CHI01LA255]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the restraint used associated with [Pilot_ANC03LA017]?,"Seatbelt, Shoulder harness"
+What aircraft category does [Registration_N62712] belong to?,Airplane
+What is the Flight Crew associated with [AccidentNumber_DEN08CA023]?,PILOT_IN_COMMAND
+What caused [AccidentNumber_FTW01LA074]?,AIRCRAFTPREFLIGHT|FUELSYSTEMCAP|FLUIDFUEL|TERRAINCONDITION
+What caused [AccidentNumber_MIA94FA044]?,ALTITUDE|STALL/MUSH|AIRSPEED
+What airspace is associated with [AccidentNumber_SEA04LA077]?,ClassG
+What caused [AccidentNumber_CHI03LA242]?,FLIGHTINTOADVERSEWEATHER|WEATHERCONDITION
+What is the restraint used associated with [Pilot_CHI03LA145]?,Seatbelt
+What passanger injury is associated with [AccidentNumber_DEN01LA047]?,2 None
+What [instrument rating] does [Pilot_ATL03LA029] have?,Airplane
+What is the total injury associated with [AccidentNumber_CHI03LA242]?,1 Fatal
+What is the first event associated with [AccidentNumber_ATL86LA153]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the Flight Crew associated with [AccidentNumber_FTW01LA105]?,PILOT_IN_COMMAND
+What engine is associated with [Registration_N704JB]?,1Reciprocating
+What was the result of the last inspection for [Registration_N32TN]?,Continuous Airworthiness
+What is the Flight Crew associated with [AccidentNumber_LAX82DA126]?,PILOT_IN_COMMAND
+What is the seat occupancy associated with [Pilot_CHI04CA219]?,___Unknown___SeatOccupied
+What does [Registration_N46773] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the total injury associated with [AccidentNumber_NYC02LA024]?,1 None
+What caused [AccidentNumber_CHI89FA039]?,LACKOFTOTALINSTRUMENTTIME|WEATHERCONDITION|VFRFLIGHTINTOIMC|PROPERALTITUDE|LIGHTCONDITION
+What is the Flight Crew associated with [AccidentNumber_LAX07CA101]?,DUAL_STUDENT|PILOT_IN_COMMAND(CFI)
+What is the crew injury associated with [AccidentNumber_DEN04LA056]?,1 Minor
+What is the first event associated with [AccidentNumber_DEN00FA082]?,"IN_FLIGHT_COLLISION_WITH_OBJECT_-_WIRE,STATIC"
+What is the aircraft issue that caused [AccidentNumber_ANC04LA018]?,___Unknown___AircraftIssue
+What is the first event associated with [AccidentNumber_LAX95LA350]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the first event associated with [AccidentNumber_SEA02FA036]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the first event associated with [AccidentNumber_FTW83LA214]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What medical certification does [Pilot_ATL04LA164] have?,Class 1 With Waivers/Limitations
+What certificate does [Pilot_ANC03LA025] have?,Student
+What is the aircraft manufacturer associated with [Registration_N2588A]?,Piper
+What is the seat occupancy associated with [Pilot_NYC04LA041]?,Left
+What passanger injury is associated with [AccidentNumber_SEA04LA001]?,1 Minor
+What medical certification does [Pilot_MIA01LA088] have?,Class 2 Valid Medical--no waivers/lim.
+What passanger injury is associated with [AccidentNumber_CHI04LA144]?,1 None
+What is the lowest cloud condition associated with [AccidentNumber_LAX04LA111]?,Scattered / 25000 ft agl
+What is the lowest cloud condition associated with [AccidentNumber_SEA01LA164]?,Clear
+What does [Registration_N727SP] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the instrument flight rules approach associated with [AccidentNumber_DEN04LA017]?,___Unknown___InstrumentFlightRulesApproach
+What is the lowest cloud condition associated with [AccidentNumber_NYC02LA091]?,___Unknown___LowestCloudCondition
+What is the second event associated with [AccidentNumber_ATL06CA001]?,FORCED_LANDING
+What is the engine manufacturer associated with [Registration_N4989A]?,Lycoming
+What medical certification does [Pilot_CHI04LA084] have?,Class 1 Valid Medical--no waivers/lim.
+What is the first event associated with [AccidentNumber_FTW90LA049]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_FOG
+What is the Flight Crew associated with [AccidentNumber_CHI04FA203]?,PILOT_IN_COMMAND
+What is the aircraft manufacturer associated with [Registration_N1084B]?,Mooney
+What is the aircraft damage associated with [AccidentNumber_FTW04FA029]?,Destroyed
+What is the aircraft issue that caused [AccidentNumber_ATL03LA050]?,___Unknown___AircraftIssue
+What is the aircraft manufacturer associated with [Registration_N693V]?,Beech
+What certificate does [Pilot_ATL02LA149] have?,Private
+What is the seat occupancy associated with [Pilot_LAX04LA119]?,Left
+What is the airport associated with [AccidentNumber_MIA02LA057]?,___Unknown___Airport
+What airworthiness certificate does [Registration_N56715] have?,Normal
+What is the engine model associated with [Registration_N152RC]?,O-235-L2C
+What engine is associated with [Registration_N82120]?,1Reciprocating
+What environmental issue caused [AccidentNumber_NYC04LA041]?,___Unknown___EnvironmentalIssue
+What is the crew injury associated with [AccidentNumber_NYC05CA090]?,1 None
+What is the first event associated with [AccidentNumber_FTW84LA124]?,HARD_LANDING
+What is the Flight Crew associated with [AccidentNumber_CHI86LA001]?,PILOT_IN_COMMAND
+What is the aircraft damage associated with [AccidentNumber_CHI05CA060]?,Substantial
+What caused [AccidentNumber_CHI83LA405]?,WINDINFORMATION|PROPERTOUCHDOWNPOINT|TERRAINCONDITION|WEATHERCONDITION|WRONGRUNWAY
+What instructor rating does [Pilot_MIA01LA207] have?,Airplane Multi-engine; Airplane Single-engine; Instrument Airplane
+What is the Aircraft Explosion associated with [AccidentNumber_MIA02LA002]?,___Unknown___AircraftExplosion
+What is the lowest cloud condition associated with [AccidentNumber_DEN03LA027]?,Clear
+What is the engine manufacturer associated with [Registration_N804JH]?,Pratt&Whitney
+In which country did [AccidentNumber_CHI03LA158] occur?,MO
+What is the runway surface condition associated with [AccidentNumber_CHI02LA226]?,___Unknown___RunwaySurfaceCondition
+What engine is associated with [Registration_N1056L]?,1Reciprocating
+What airspace is associated with [AccidentNumber_ATL01LA050]?,ClassG
+What are the conditions at the accident site associated with [AccidentNumber_CHI03FA291]?,Instrument Conditions
+What is the third event associated with [AccidentNumber_CHI86LA135]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_NYC88LA071]?,COPILOT/SECOND_PILOT|PILOT_IN_COMMAND
+What airspace is associated with [AccidentNumber_ANC05CA054]?,AirportInformation
+What is the aircraft damage associated with [AccidentNumber_FTW03LA034]?,Substantial
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX04LA112]?,Part91GeneralAviation-Personal
+What does [Registration_N60U] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the airplane rating associated with [Pilot_LAX03LA122]?,Multi-engineLand;Single-engineLand
+What aircraft category does [Registration_N739WE] belong to?,Airplane
+What environmental issue caused [AccidentNumber_NYC02FA126]?,___Unknown___EnvironmentalIssue
+What is the lowest cloud condition associated with [AccidentNumber_CHI04CA132]?,___Unknown___LowestCloudCondition
+In which country did [AccidentNumber_LAX02LA037] occur?,CA
+What is the landing gear associated with [Registration_N262FE]?,Retractable-Tricycle
+What aircraft category does [Registration_N524J] belong to?,Airplane
+What is the restraint used associated with [Pilot_MIA05FA020]?,"Seatbelt, Shoulder harness"
+What airworthiness certificate does [Registration_N51192] have?,Normal
+What was the result of the last inspection for [Registration_N513TS]?,100 Hour
+What is the second event associated with [AccidentNumber_ATL88LA208]?,FORCED_LANDING
+What [instrument rating] does [Pilot_LAX01LA083] have?,Airplane; Helicopter
+What is the second event associated with [AccidentNumber_FTW98LA039]?,FORCED_LANDING
+What airworthiness certificate does [Registration_N204RH] have?,Experimental
+What is the second event associated with [AccidentNumber_CHI01LA303]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_MECH_FAILURE/MALF
+What is the second event associated with [AccidentNumber_MIA83LA151]?,FORCED_LANDING
+What is the first event associated with [AccidentNumber_MKC89LA101]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the aircraft issue that caused [AccidentNumber_LAX05CA128]?,___Unknown___AircraftIssue
+What caused [AccidentNumber_FTW02LA137]?,FUELSYSTEMCAP|FLUIDFUEL|TERRAINCONDITION|OPERATIONWITHKNOWNDEFICIENCIESINEQUIPMENT
+What is the lowest cloud condition associated with [AccidentNumber_NYC04FA136]?,___Unknown___LowestCloudCondition
+What environmental issue caused [AccidentNumber_FTW04LA105]?,___Unknown___EnvironmentalIssue
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_LAX01LA231]?,COMPANY_MAINTENANCE_PERSONNEL
+What caused [AccidentNumber_CHI04CA113]?,REMEDIALACTION|DIRECTIONALCONTROL|TERRAINCONDITION
+What is the aircraft issue that caused [AccidentNumber_ANC02FA042]?,___Unknown___AircraftIssue
+What environmental issue caused [AccidentNumber_FTW03LA004]?,___Unknown___EnvironmentalIssue
+What is the seat occupancy associated with [Pilot_ANC02FA042]?,Front
+What is the airplane rating associated with [Pilot_CHI03LA190]?,Single-engineLand;Single-engineSea
+What is the first event associated with [AccidentNumber_MIA02FA048]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the total injury associated with [AccidentNumber_LAX03LA122]?,1 None
+What is the restraint used associated with [Pilot_ANC03LA010]?,"Seatbelt, Shoulder harness"
+What environmental issue caused [AccidentNumber_NYC02LA128]?,___Unknown___EnvironmentalIssue
+What is the aircraft fire associated with [AccidentNumber_LAX04LA254]?,On-Ground
+What is the first event associated with [AccidentNumber_CHI03LA147]?,HARD_LANDING
+What is the clearance associated with [AccidentNumber_FTW01FA111]?,IFR
+What engine is associated with [Registration_N737WQ]?,1Reciprocating
+What is the airplane rating associated with [Pilot_SEA01LA111]?,Single-engineLand
+What is the runway surface type associated with [AccidentNumber_CHI05LA050]?,Asphalt
+What [instrument rating] does [Pilot_LAX02LA147] have?,Airplane; Helicopter
+What is the crew injury associated with [AccidentNumber_LAX02LA037]?,"1 Serious, 1 None"
+What is the third event associated with [AccidentNumber_LAX07CA261]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What flight plan was filed for [AccidentNumber_FTW04LA090]?,IFR
+What caused [AccidentNumber_CHI97LA280]?,REMEDIALACTION|WEATHERCONDITION|FLIGHTPLANNING/DECISION
+What is the engine manufacturer associated with [Registration_N9XQ]?,Lycoming
+What is the first event associated with [AccidentNumber_IAD97FA038]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_LOW_CEILING
+What is the aircraft manufacturer associated with [Registration_N7236L]?,Beech
+What airworthiness certificate does [Registration_N9091D] have?,Normal
+What caused [AccidentNumber_CHI07FA016]?,FLUIDOIL|TERRAINCONDITION|VISUALLOOKOUT
+What is the first event associated with [AccidentNumber_CHI01LA306]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What caused [AccidentNumber_LAX01LA164]?,PROPERDESCENTRATE|DIRECTIONALCONTROL
+What is the Flight Crew associated with [AccidentNumber_MIA89GA144]?,PILOT_IN_COMMAND
+What caused [AccidentNumber_CHI03FA239]?,AIRSPEED|ABORTEDTAKEOFF
+What is the first event associated with [AccidentNumber_SEA03LA035]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What are the conditions at the accident site associated with [AccidentNumber_CHI02LA018]?,Visual Conditions
+What certificate does [Pilot_DEN04LA017] have?,FlightInstructor;Commercial
+In which country did [AccidentNumber_ANC02FA042] occur?,AK
+What airspace is associated with [AccidentNumber_SEA02FA036]?,ClassE
+What is the second event associated with [AccidentNumber_CHI90LA122]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What are the conditions at the accident site associated with [AccidentNumber_DEN04FA027A]?,Visual Conditions
+What certificate does [Pilot_FTW03LA069] have?,Private
+What is the engine manufacturer associated with [Registration_N182UA]?,Pratt&Whitney
+In which country did [AccidentNumber_MIA05FA020] occur?,FL
+What is the third event associated with [AccidentNumber_SEA03LA023]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What [instrument rating] does [Pilot_CHI03LA158] have?,Airplane
+What is the aircraft damage associated with [AccidentNumber_DEN01LA119]?,Substantial
+What is the condition of light associated with [AccidentNumber_MIA03LA021]?,Day
+What is the first event associated with [AccidentNumber_LAX88FA101]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_LOW_CEILING
+What is the first event associated with [AccidentNumber_ANC06LA001]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the third event associated with [AccidentNumber_FTW87LA024]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What [instrument rating] does [Pilot_CHI04CA172] have?,Airplane
+What is the lowest cloud condition associated with [AccidentNumber_SEA04LA093]?,Clear
+What is the aircraft fire associated with [AccidentNumber_FTW02FA087]?,On-Ground
+What is the engine manufacturer associated with [Registration_N7180Q]?,TextronLycoming
+What is the second event associated with [AccidentNumber_CHI02LA045]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_RUNWAY_LIGHT
+What is the engine manufacturer associated with [Registration_N19771]?,Lycoming
+What is the engine manufacturer associated with [Registration_N991RW]?,Lycoming
+What is the condition of light associated with [AccidentNumber_ANC01LA099]?,Day
+What was the result of the last inspection for [Registration_N82120]?,100 Hour
+What is the crew injury associated with [AccidentNumber_LAX04CA309]?,1 Minor
+What instructor rating does [Pilot_LAX05CA082] have?,___Unknown___InstructorRating
+What certificate does [Pilot_LAX02LA077] have?,Private
+What is the lowest cloud condition associated with [AccidentNumber_ANC03LA016]?,Clear
+What is the second event associated with [AccidentNumber_DEN93LA072]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the restraint used associated with [Pilot_LAX03FA147]?,"Seatbelt, Shoulder harness"
+What was the result of the last inspection for [Registration_N53828]?,Annual
+What aircraft category does [Registration_N50G] belong to?,Airplane
+What is the Federal Aviation Regulation associated with [AccidentNumber_ANC03LA025]?,Part91GeneralAviation-Personal
+What caused [AccidentNumber_DEN08CA023]?,TERRAINCONDITION|ALTITUDE|AIRSPEED|GOAROUND
+What is the first event associated with [AccidentNumber_ANC87LA029]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the landing gear associated with [Registration_N8356X]?,Retractable-Tricycle
+What is the Flight Crew associated with [AccidentNumber_SEA95LA169]?,PILOT_IN_COMMAND
+What airworthiness certificate does [Registration_N804JH] have?,Normal
+What aircraft category does [Registration_N51192] belong to?,Airplane
+What is the runway surface type associated with [AccidentNumber_ATL01LA045]?,Asphalt
+What is the first event associated with [AccidentNumber_MIA08FA010]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the Federal Aviation Regulation associated with [AccidentNumber_MIA02FA079]?,Part91GeneralAviation-Personal
+In which country did [AccidentNumber_MIA02LA076] occur?,FL
+What is the first event associated with [AccidentNumber_FTW00FA001]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the runway surface condition associated with [AccidentNumber_IAD01FA089]?,Dry
+What environmental issue caused [AccidentNumber_MIA02LA165]?,___Unknown___EnvironmentalIssue
+What is the first event associated with [AccidentNumber_ANC01LA131]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Visual Flight Rules approach associated with [AccidentNumber_SEA05CA035]?,WreckageAndImpactInformation
+What is the first event associated with [AccidentNumber_MIA05CA121]?,HARD_LANDING
+What medical certification does [Pilot_ANC02FA042] have?,Class 2 Valid Medical--w/ waivers/lim.
+What caused [AccidentNumber_ATL04LA001]?,MAINTENANCE|AIRSPEED
+What is the restraint used associated with [Pilot_CHI01LA081]?,"Seatbelt, Shoulder harness"
+What certificate does [Pilot_FTW03LA001] have?,Private
+What [instrument rating] does [Pilot_MIA02FA048] have?,Airplane
+What is the runway surface condition associated with [AccidentNumber_ANC01LA080]?,___Unknown___RunwaySurfaceCondition
+What is the Federal Aviation Regulation associated with [AccidentNumber_NYC03LA060]?,Part91GeneralAviation-Personal
+What is the aircraft manufacturer associated with [Registration_N53505]?,Piper
+What is the runway surface type associated with [AccidentNumber_DEN05LA055]?,Asphalt
+What certificate does [Pilot_MIA05CA121] have?,Private
+What are the conditions at the accident site associated with [AccidentNumber_DEN02LA067]?,Visual Conditions
+What is the crew injury associated with [AccidentNumber_FTW02FA087]?,1 Fatal
+What is the second event associated with [AccidentNumber_FTW98LA137]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What was the result of the last inspection for [Registration_N34NL]?,Annual
+What is the second event associated with [AccidentNumber_ATL88LA001]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the first event associated with [AccidentNumber_FTW84LA298]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What airspace is associated with [AccidentNumber_MIA02FA037]?,ClassG
+What is the crew injury associated with [AccidentNumber_CHI03LA002]?,2 None
+What is the aircraft manufacturer associated with [Registration_N9DD]?,Beech
+What is the Flight Crew associated with [AccidentNumber_ANC85LA050]?,PILOT_IN_COMMAND
+What is the lowest cloud condition associated with [AccidentNumber_CHI03LA145]?,Clear
+What is the lowest cloud condition associated with [AccidentNumber_ATL04CA172]?,Clear
+What is the first event associated with [AccidentNumber_CHI87FA212]?,UNDERSHOOT
+What caused [AccidentNumber_MIA92LA055]?,DISTANCE|ALTITUDE|LIGHTCONDITION
+What [instrument rating] does [Pilot_CHI02LA115] have?,Airplane
+What aircraft category does [Registration_N4033G] belong to?,Airplane
+What is the Flight Crew associated with [AccidentNumber_SEA96LA109]?,PILOT_IN_COMMAND
+What is the runway surface condition associated with [AccidentNumber_MIA02LA077]?,Dry
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_ATL04LA044]?,OTHER_MAINTENANCE_PERSONNEL
+What aircraft category does [Registration_N4104B] belong to?,Airplane
+In which country did [AccidentNumber_FTW01LA045] occur?,OK
+What medical certification does [Pilot_ANC05CA115] have?,Class 3
+What [instrument rating] does [Pilot_ANC02LA088] have?,Airplane
+What are the conditions at the accident site associated with [AccidentNumber_FTW04FA052]?,Instrument Conditions
+What is the first event associated with [AccidentNumber_FTW86FA073]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_FOG
+What caused [AccidentNumber_CHI99LA017]?,LACKOFTOTALEXPERIENCEINTYPEOFAIRCRAFT|DIRECTIONALCONTROL
+What caused [AccidentNumber_LAX85FA304]?,OBJECT|TERRAINCONDITION|PROPERALTITUDE|VISUAL/AURALPERCEPTION|VISUALLOOKOUT
+What [instrument rating] does [Pilot_DEN01LA100] have?,Airplane
+What is the third event associated with [AccidentNumber_LAX94LA233]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Federal Aviation Regulation associated with [AccidentNumber_IAD04CA009]?,Part91GeneralAviation-Instructional
+What is the second event associated with [AccidentNumber_LAX84FA087]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What airworthiness certificate does [Registration_N495C] have?,Normal
+What is the seat occupancy associated with [Pilot_ATL04CA146]?,Single
+What environmental issue caused [AccidentNumber_FTW02LA001]?,___Unknown___EnvironmentalIssue
+What medical certification does [Pilot_MIA05LA001] have?,Class 2 With Waivers/Limitations
+What is the second event associated with [AccidentNumber_FTW94LA217]?,FORCED_LANDING
+What is the total injury associated with [AccidentNumber_ATL02FA162]?,2 Fatal
+In which country did [AccidentNumber_CHI02LA018] occur?,IL
+What caused [AccidentNumber_ATL91FA148]?,AIRCRAFTPREFLIGHT|FUELSUPPLY|LACKOFFAMILIARITYWITHAIRCRAFT|FLUIDFUEL
+What is the runway surface condition associated with [AccidentNumber_LAX04CA309]?,___Unknown___RunwaySurfaceCondition
+What is the airframe total time associated with [Registration_N345MC]?,___Unknown___AirframeTotalTime
+What is the second event associated with [AccidentNumber_DEN91LA094]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+In which country did [AccidentNumber_ATL05CA095] occur?,TN
+What is the lowest cloud condition associated with [AccidentNumber_MIA02FA037]?,___Unknown___LowestCloudCondition
+What is the airplane rating associated with [Pilot_ANC01LA131]?,Single-engineLand;Single-engineSea
+What is the third event associated with [AccidentNumber_MIA02LA165]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the seat occupancy associated with [Pilot_MIA02FA048]?,Left
+What is the fourth event associated with [AccidentNumber_CHI98LA235]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the second event associated with [AccidentNumber_IAD05LA029]?,FORCED_LANDING
+What is the engine manufacturer associated with [Registration_N2575P]?,___Unknown___EngineManufacturer
+What is the first event associated with [AccidentNumber_MIA88LA050]?,UNDERSHOOT
+What flight plan was filed for [AccidentNumber_ATL03LA124]?,IFR
+What is the runway surface condition associated with [AccidentNumber_LAX05FA255]?,Dry
+What is the aircraft damage associated with [AccidentNumber_DEN01LA062]?,Substantial
+What is the Visual Flight Rules approach associated with [AccidentNumber_NYC02LA090]?,FullStop
+What are the other persons on board associated with [AccidentNumber_DEN01LA158]?,PASSENGER
+What is the restraint used associated with [Pilot_NYC02LA101]?,"Seatbelt, Shoulder harness"
+What is the first event associated with [AccidentNumber_FTW85LA070]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_LOW_CEILING
+What is the Visual Flight Rules approach associated with [AccidentNumber_FTW03LA034]?,___Unknown___VisualFlightRulesApproach
+What is the restraint used associated with [Pilot_DFW05LA115]?,"Seatbelt, Shoulder harness"
+What was the result of the last inspection for [Registration_N70P]?,___Unknown___TypeOfLastInspection
+What is the third event associated with [AccidentNumber_LAX88DUM01]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What passanger injury is associated with [AccidentNumber_LAX05CA252]?,2 None
+What is the airplane rating associated with [Pilot_FTW02LA010]?,Multi-engineLand;Single-engineLand
+What is the aircraft issue that caused [AccidentNumber_IAD01LA035]?,___Unknown___AircraftIssue
+What is the first event associated with [AccidentNumber_DEN02LA067]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What caused [AccidentNumber_FTW98LA141]?,COMPENSATIONFORWINDCONDITIONS|LACKOFTOTALEXPERIENCEINTYPEOPERATION|WEATHERCONDITION
+In which country did [AccidentNumber_FTW01LA113] occur?,OK
+What is the seat occupancy associated with [Pilot_FTW01LA073]?,Left
+What is the second event associated with [AccidentNumber_LAX07TA001]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the Visual Flight Rules approach associated with [AccidentNumber_NYC05CA090]?,TouchAndGo;Traffic
+What environmental issue caused [AccidentNumber_LAX02LA035]?,___Unknown___EnvironmentalIssue
+What is the Flight Crew associated with [AccidentNumber_MKC82DA092]?,PILOT_IN_COMMAND
+What is the second event associated with [AccidentNumber_CHI01LA263]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What caused [AccidentNumber_MKC89LA018]?,VISUALLOOKOUT|OBJECT|CLEARANCE
+What is the seat occupancy associated with [Pilot_ANC02LA113]?,Front
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_MIA03LA090]?,COMPANY_MAINTENANCE_PERSONNEL
+What is the runway surface type associated with [AccidentNumber_ANC01LA053]?,Gravel
+What does [Registration_N474BG] have in terms of an emergency locator transmitter?,"Installed, activated, did not aid in locating accident"
+What was the result of the last inspection for [Registration_N60BR]?,Annual
+What medical certification does [Pilot_ANC02LA088] have?,Class 3 Valid Medical--w/ waivers/lim.
+What is the Visual Flight Rules approach associated with [AccidentNumber_CHI05CA085]?,WreckageAndImpactInformation
+What airworthiness certificate does [Registration_N23108] have?,Normal
+What is the second event associated with [AccidentNumber_FTW91LA075]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the first event associated with [AccidentNumber_FTW03FA055]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the condition of light associated with [AccidentNumber_LAX05LA253]?,Day
+What is the landing gear associated with [Registration_N673KD]?,Tailwheel
+What caused [AccidentNumber_CHI81LA106]?,PROPERALTITUDE|AIRCRAFTCONTROL
+What [instrument rating] does [Pilot_CHI03LA187] have?,Airplane
+What is the lowest ceiling associated with [AccidentNumber_LAX04CA309]?,___Unknown___LowestCeiling
+What is the third event associated with [AccidentNumber_FTW85LA240]?,MAIN_GEAR_COLLAPSED
+What is the crew injury associated with [AccidentNumber_NYC03FA001]?,1 Fatal
+What engine is associated with [Registration_N5QV]?,1Reciprocating
+What is the Visual Flight Rules approach associated with [AccidentNumber_MIA03LA010]?,TrafficPattern
+What environmental issue caused [AccidentNumber_DFW05CA079]?,___Unknown___EnvironmentalIssue
+What is the seat occupancy associated with [Pilot_NYC02LA003]?,Center
+What flight plan was filed for [AccidentNumber_ANC01LA039]?,VFR
+What is the first event associated with [AccidentNumber_MIA02LA002]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the second event associated with [AccidentNumber_ANC03LA016]?,FORCED_LANDING
+What is the Visual Flight Rules approach associated with [AccidentNumber_FTW03LA004]?,___Unknown___VisualFlightRulesApproach
+What is the Visual Flight Rules approach associated with [AccidentNumber_CHI05CA040]?,WreckageAndImpactInformation
+What caused [AccidentNumber_CHI98LA089]?,TERRAINCONDITION|WEATHERCONDITION|ACFT/EQUIPINADEQUATEDESIGN|FUELSYSTEMCARBURETOR
+What caused [AccidentNumber_FTW87LA024]?,GEAREXTENSION|TERRAINCONDITION|FLIGHTPLANNING/DECISION|LANDINGGEARNOSEGEAR|ALTITUDE|LANDINGGEARTIRE
+What engine is associated with [Registration_N8772M]?,1Reciprocating
+What medical certification does [Pilot_CHI02LA226] have?,Class 3 Valid Medical--no waivers/lim.
+What instructor rating does [Pilot_MIA02LA057] have?,Airplane Single-engine; Instrument Airplane
+What airspace is associated with [AccidentNumber_NYC02LA070]?,ClassG
+What was the result of the last inspection for [Registration_N5483H]?,Annual
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_SEA00TA013]?,COMPANY_MAINTENANCE_PERSONNEL
+What is the restraint used associated with [Pilot_IAD04LA019]?,"Seatbelt, Shoulder harness"
+What is the seat occupancy associated with [Pilot_FTW02LA136]?,Left
+What is the aircraft damage associated with [AccidentNumber_ANC05CA040]?,Substantial
+What is the third event associated with [AccidentNumber_LAX03FA147]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the lowest cloud condition associated with [AccidentNumber_LAX05LA253]?,Clear
+What airworthiness certificate does [Registration_N60539] have?,Normal
+What is the condition of light associated with [AccidentNumber_FTW03LA200]?,Day
+What is the seat occupancy associated with [Pilot_MIA03LA010]?,Left
+What is the engine manufacturer associated with [Registration_N1029E]?,Lycoming
+What is the first event associated with [AccidentNumber_ANC97LA081]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the Flight Crew associated with [AccidentNumber_ATL97LA094]?,PILOT_IN_COMMAND
+What engine is associated with [Registration_N520SE]?,2Reciprocating
+What airworthiness certificate does [Registration_N1056L] have?,Normal
+What is the runway surface condition associated with [AccidentNumber_ATL03LA040]?,Dry
+What is the runway surface condition associated with [AccidentNumber_LAX02FA038]?,___Unknown___RunwaySurfaceCondition
+What flight plan was filed for [AccidentNumber_LAX05FA058]?,IFR
+What aircraft category does [Registration_N5921H] belong to?,Airplane
+What is the landing gear associated with [Registration_N7006A]?,Tricycle
+What is the condition of light associated with [AccidentNumber_SEA04LA001]?,Day
+What is the third event associated with [AccidentNumber_FTW01LA113]?,NOSE_OVER
+What is the crew injury associated with [AccidentNumber_ATL02LA148]?,1 None
+What caused [AccidentNumber_BFO89LA040]?,COMPENSATIONFORWINDCONDITIONS|DIRECTIONALCONTROL|WEATHERCONDITION
+What is the third event associated with [AccidentNumber_LAX97LA031]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the first event associated with [AccidentNumber_CHI88DEP01]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the first event associated with [AccidentNumber_MIA02LA038]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the second event associated with [AccidentNumber_FTW85LA070]?,COMPLETE_GEAR_COLLAPSED
+What is the second event associated with [AccidentNumber_ANC87LA092]?,NOSE_OVER
+What is the airframe total time associated with [Registration_N714MX]?,___Unknown___AirframeTotalTime
+What caused [AccidentNumber_ANC91LA085]?,WEATHERCONDITION|COMPENSATIONFORWINDCONDITIONS|PROCEDURES/DIRECTIVES
+What is the aircraft damage associated with [AccidentNumber_CHI03LA063]?,Substantial
+What caused [AccidentNumber_CHI94FA253]?,STALL/SPIN|FLUIDFUEL|FUELCONSUMPTIONCALCULATIONS|AIRCRAFTCONTROL
+What is the runway surface condition associated with [AccidentNumber_MIA05CA065]?,Dry
+What instructor rating does [Pilot_FTW03LA143] have?,Airplane Multi-engine; Airplane Single-engine; Instrument Airplane
+What is the first event associated with [AccidentNumber_SEA02LA001]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What caused [AccidentNumber_CHI95LA208]?,REFUELING|PREFLIGHTPLANNING/PREPARATION|FLUIDFUEL|TERRAINCONDITION
+What is the first event associated with [AccidentNumber_ATL91LA037]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the crew injury associated with [AccidentNumber_ATL04LA105]?,1 Minor
+What is the crew injury associated with [AccidentNumber_CHI03LA194]?,1 Minor
+What is the fourth event associated with [AccidentNumber_ATL96FA114]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the Flight Crew associated with [AccidentNumber_DEN89LA150]?,PILOT_IN_COMMAND
+What was the result of the last inspection for [Registration_N50346]?,Annual
+What are the conditions at the accident site associated with [AccidentNumber_FTW03LA200]?,Visual Conditions
+What is the crew injury associated with [AccidentNumber_IAD02FA047]?,2 None
+What is the seat occupancy associated with [Pilot_CHI03LA063]?,Right
+What certificate does [Pilot_NYC02LA002] have?,Commercial
+What are the conditions at the accident site associated with [AccidentNumber_DEN01LA158]?,Visual Conditions
+What is the runway surface condition associated with [AccidentNumber_LAX05CA082]?,Dry
+What is the condition of light associated with [AccidentNumber_DFW05CA177]?,Day
+What is the third event associated with [AccidentNumber_CHI90LA147]?,NOSE_OVER
+What is the aircraft damage associated with [AccidentNumber_CHI03LA048]?,Destroyed
+What is the Flight Crew associated with [AccidentNumber_LAX01LA164]?,PILOT_IN_COMMAND
+What is the landing gear associated with [Registration_N2849Z]?,Tailwheel
+What is the second event associated with [AccidentNumber_ANC01LA141]?,FORCED_LANDING
+What was the result of the last inspection for [Registration_N1129A]?,Annual
+What is the Flight Crew associated with [AccidentNumber_CHI03FA003]?,PILOT_IN_COMMAND
+What is the second event associated with [AccidentNumber_ATL88FA207]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the first event associated with [AccidentNumber_ANC07LA027]?,LOSS_OF_ENGINE_POWER
+What medical certification does [Pilot_MIA05CA002] have?,Class 2 Valid Medical--no waivers/lim.
+What is the Federal Aviation Regulation associated with [AccidentNumber_NYC03LA096]?,Part91GeneralAviation-Instructional
+What is the first event associated with [AccidentNumber_DFW06CA001]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the runway surface type associated with [AccidentNumber_DEN01LA060]?,___Unknown___RunwaySurfaceType
+What does [Registration_N42DC] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What are the conditions at the accident site associated with [AccidentNumber_DFW05CA079]?,Visual Conditions
+What [instrument rating] does [Pilot_DEN05LA109] have?,Airplane
+What airspace is associated with [AccidentNumber_FTW02LA228]?,ClassG
+What is the first event associated with [AccidentNumber_CHI90LA122]?,HARD_LANDING
+What is the aircraft fire associated with [AccidentNumber_ANC05FA039]?,On-Ground
+What is the crew injury associated with [AccidentNumber_ATL02FA113]?,3 None
+What is the landing gear associated with [Registration_N1066M]?,Tailwheel
+What is the airplane rating associated with [Pilot_LAX02LA078]?,Single-engineLand
+What engine is associated with [Registration_N22RJ]?,1Reciprocating
+What aircraft category does [Registration_N6444J] belong to?,Airplane
+What certificate does [Pilot_CHI03LA194] have?,Private
+What is the first event associated with [AccidentNumber_ATL87LA202]?,LOSS_OF_ENGINE_POWER
+What is the Federal Aviation Regulation associated with [AccidentNumber_MIA02LA057]?,Part91GeneralAviation-Instructional
+What airworthiness certificate does [Registration_N7815Z] have?,Normal
+What aircraft category does [Registration_N956UA] belong to?,Airplane
+What is the aircraft issue that caused [AccidentNumber_MIA03CA063]?,___Unknown___AircraftIssue
+What is the aircraft manufacturer associated with [Registration_N5226]?,Bell
+In which country did [AccidentNumber_LAX03FA057] occur?,AZ
+What is the restraint used associated with [Pilot_SEA05LA002]?,Seatbelt
+What is the second event associated with [AccidentNumber_NYC95LA038]?,"DRAGGED_WING,ROTOR,POD,FLOAT_OR_TAIL/SKID"
+What caused [AccidentNumber_LAX95LA350]?,DIRECTIONALCONTROL|LACKOFTOTALEXPERIENCEINTYPEOPERATION|WEATHERCONDITION
+What is the aircraft issue that caused [AccidentNumber_FTW04LA229]?,___Unknown___AircraftIssue
+What caused [AccidentNumber_FTW96LA033]?,CARBURETORHEAT|WEATHERCONDITION|TERRAINCONDITION|FUELSYSTEMCARBURETOR
+What is the crew injury associated with [AccidentNumber_ANC05CA115]?,1 None
+What are the other persons on board associated with [AccidentNumber_ATL06CA001]?,PASSENGER
+What medical certification does [Pilot_LAX03CA274] have?,Class 3
+What is the fifth event associated with [AccidentNumber_MIA02FA162]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the landing gear associated with [Registration_N3086R]?,Tricycle
+What is the runway surface condition associated with [AccidentNumber_LAX04CA310]?,___Unknown___RunwaySurfaceCondition
+What caused [AccidentNumber_ANC86FA118B]?,PROCEDURES/DIRECTIVES|AIRCRAFTHANDLING|VISUALLOOKOUT|VISUAL/AURALPERCEPTION|OBJECT
+What is the aircraft damage associated with [AccidentNumber_ATL03LA050]?,Substantial
+What is the runway surface type associated with [AccidentNumber_SEA04LA093]?,___Unknown___RunwaySurfaceType
+What is the runway surface condition associated with [AccidentNumber_ANC03LA087]?,Dry
+What are the conditions at the accident site associated with [AccidentNumber_LAX01LA135]?,Visual Conditions
+What caused [AccidentNumber_FTW96FA234A]?,SUPERVISION|VISUALLOOKOUT|PROCEDURES/DIRECTIVES
+What is the first event associated with [AccidentNumber_DEN89LA002]?,HARD_LANDING
+What is the third event associated with [AccidentNumber_ATL86FA001]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+In which country did [AccidentNumber_MIA03LA035] occur?,GA
+What is the Federal Aviation Regulation associated with [AccidentNumber_IAD05LA030]?,Part91GeneralAviation-Personal
+What is the second event associated with [AccidentNumber_DEN90FA030]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the instrument flight rules approach associated with [AccidentNumber_LAX02LA039]?,___Unknown___InstrumentFlightRulesApproach
+What airworthiness certificate does [Registration_N970AT] have?,Transport
+What is the third event associated with [AccidentNumber_MKC86FA123B]?,FIRE
+What is the second event associated with [AccidentNumber_NYC89LA207]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_ATL83AA305]?,PILOT_IN_COMMAND
+What airspace is associated with [AccidentNumber_CHI03FA238B]?,ClassD
+What environmental issue caused [AccidentNumber_LAX03LA163]?,___Unknown___EnvironmentalIssue
+What is the condition of light associated with [AccidentNumber_CHI03LA240]?,Day
+What airspace is associated with [AccidentNumber_MIA05CA121]?,AirportInformation
+What passanger injury is associated with [AccidentNumber_CHI04LA052]?,3 None
+What is the second event associated with [AccidentNumber_LAX99FA138]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What are the conditions at the accident site associated with [AccidentNumber_FTW01LA073]?,Visual Conditions
+What is the runway surface type associated with [AccidentNumber_DFW05LA115]?,___Unknown___RunwaySurfaceType
+What is the fourth event associated with [AccidentNumber_NYC95FA210]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the aircraft issue that caused [AccidentNumber_ANC03LA029]?,___Unknown___AircraftIssue
+What does [Registration_N7213P] have in terms of an emergency locator transmitter?,"Installed, activated, did not aid in locating accident"
+What is the total injury associated with [AccidentNumber_NYC03LA003]?,2 None
+What is the aircraft damage associated with [AccidentNumber_ANC05FA039]?,Destroyed
+What caused [AccidentNumber_ATL89DMG01]?,STALL|LIFTOFF|THROTTLE/POWERCONTROL|LACKOFFAMILIARITYWITHAIRCRAFT|ABORTEDTAKEOFF
+What is the aircraft issue that caused [AccidentNumber_MIA05LA021]?,___Unknown___AircraftIssue
+What is the Flight Crew associated with [AccidentNumber_LAX95FA043]?,PILOT_IN_COMMAND
+What is the aircraft damage associated with [AccidentNumber_CHI04LA124]?,Substantial
+What is the first event associated with [AccidentNumber_LAX88LA171]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What does [Registration_N8681T] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What caused [AccidentNumber_LAX92AMS03]?,FLUIDFUEL|VFRFLIGHTINTOIMC|BECAMELOST/DISORIENTED|WEATHEREVALUATION|LACKOFTOTALEXPERIENCE
+What is the instrument flight rules approach associated with [AccidentNumber_FTW02LA010]?,___Unknown___InstrumentFlightRulesApproach
+What caused [AccidentNumber_MIA99LA117]?,VISUALLOOKOUT|UNSUITABLETERRAINORTAKEOFF/LANDING/TAXIAREA
+What aircraft category does [Registration_N53828] belong to?,Airplane
+What is the Flight Crew associated with [AccidentNumber_ATL04LA114]?,PILOT_IN_COMMAND
+What is the lowest cloud condition associated with [AccidentNumber_SEA03LA023]?,___Unknown___LowestCloudCondition
+What is the seat occupancy associated with [Pilot_NYC01LA198]?,Left
+What is the aircraft issue that caused [AccidentNumber_FTW04FA052]?,___Unknown___AircraftIssue
+What is the first event associated with [AccidentNumber_LAX01FA134]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_FOG
+What does [Registration_N3251Z] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the second event associated with [AccidentNumber_ATL83LA023]?,FORCED_LANDING
+What is the airport associated with [AccidentNumber_ANC03LA048]?,___Unknown___Airport
+What is the first event associated with [AccidentNumber_CHI84LA145]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the second event associated with [AccidentNumber_DEN04LA056]?,FORCED_LANDING
+What is the second event associated with [AccidentNumber_ATL91FA013]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the crew injury associated with [AccidentNumber_DEN05LA109]?,1 None
+What is the second event associated with [AccidentNumber_CHI01LA030]?,FORCED_LANDING
+What airworthiness certificate does [Registration_N50554] have?,Normal
+What certificate does [Pilot_IAD04CA009] have?,Student
+What is the aircraft manufacturer associated with [Registration_N68714]?,Cessna
+What aircraft category does [Registration_N4024B] belong to?,Airplane
+What is the Flight Crew associated with [AccidentNumber_ATL04LA063]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_FTW83LA138]?,PILOT_IN_COMMAND
+What is the fourth event associated with [AccidentNumber_NYC85FNC02]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the second event associated with [AccidentNumber_SEA87LA061]?,FORCED_LANDING
+What is the Flight Crew associated with [AccidentNumber_CHI93LA101]?,PILOT_IN_COMMAND
+What is the aircraft manufacturer associated with [Registration_N3738Y]?,Cessna
+What is the second event associated with [AccidentNumber_FTW96LA138]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the condition of light associated with [AccidentNumber_DEN04FA027A]?,Night
+What is the first event associated with [AccidentNumber_LAX05CA128]?,HARD_LANDING
+What is the third event associated with [AccidentNumber_CHI86FA192]?,DITCHING
+What aircraft category does [Registration_N1056L] belong to?,Airplane
+What is the Flight Crew associated with [AccidentNumber_ANC90LA081]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_LAX97LA060]?,PILOT_IN_COMMAND
+What is the second event associated with [AccidentNumber_FTW83LA032]?,FORCED_LANDING
+What is the restraint used associated with [Pilot_IAD01LA035]?,"Seatbelt, Shoulder harness"
+What is the first event associated with [AccidentNumber_NYC84LA124]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What is the airplane rating associated with [Pilot_LAX05FA058]?,Single-engineLand
+What is the seat occupancy associated with [Pilot_MIA03LA089]?,Left
+What is the second event associated with [AccidentNumber_MKC84LA160]?,FORCED_LANDING
+What is the seat occupancy associated with [Pilot_IAD01FA089]?,Right
+What is the Flight Crew associated with [AccidentNumber_ATL03FA052]?,PILOT_IN_COMMAND
+What is the condition of light associated with [AccidentNumber_NYC02LA091]?,Day
+What airspace is associated with [AccidentNumber_DEN04LA001]?,ClassG
+What caused [AccidentNumber_FTW02LA044]?,TERRAINCONDITION|UNSUITABLETERRAINORTAKEOFF/LANDING/TAXIAREA
+What is the aircraft damage associated with [AccidentNumber_CHI03LA045]?,Substantial
+What engine is associated with [Registration_N210CJ]?,2TurboProp
+What was the result of the last inspection for [Registration_N8681T]?,Annual
+What is the runway surface condition associated with [AccidentNumber_CHI05LA067]?,___Unknown___RunwaySurfaceCondition
+What is the landing gear associated with [Registration_N3467E]?,Tricycle
+What is the lowest cloud condition associated with [AccidentNumber_LAX05CA129]?,Clear
+What is the fourth event associated with [AccidentNumber_SEA02LA117]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What airworthiness certificate does [Registration_N400WJ] have?,Experimental
+What is the Flight Crew associated with [AccidentNumber_LAX91FA117]?,PILOT_IN_COMMAND
+What aircraft category does [Registration_N2528M] belong to?,Airplane
+What certificate does [Pilot_NYC02LA070] have?,FlightInstructor;Commercial
+What is the total injury associated with [AccidentNumber_LAX05CA082]?,2 None
+What is the engine manufacturer associated with [Registration_N300PS]?,Lycoming
+What medical certification does [Pilot_FTW03LA091] have?,Class 2 Valid Medical--no waivers/lim.
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_CHI06LA124]?,OTHER_MAINTENANCE_PERSONNEL
+What is the airplane rating associated with [Pilot_ANC01LA053]?,Multi-engineLand;Single-engineLand
+What is the aircraft damage associated with [AccidentNumber_DEN05LA055]?,Substantial
+What is the landing gear associated with [Registration_N870BM]?,Tailwheel
+What certificate does [Pilot_ATL05CA019] have?,Commercial
+What are the conditions at the accident site associated with [AccidentNumber_SEA01TA083]?,Visual Conditions
+What is the first event associated with [AccidentNumber_SEA02FA023]?,FIRE
+What is the Flight Crew associated with [AccidentNumber_DFW06CA112]?,PILOT_IN_COMMAND
+What is the first event associated with [AccidentNumber_NYC98LA001]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_MECH_FAILURE/MALF
+In which country did [AccidentNumber_CHI04LA124] occur?,IL
+What airworthiness certificate does [Registration_N714MX] have?,Normal
+What aircraft model is associated with [Registration_N2414P]?,PA-18-150
+What is the crew injury associated with [AccidentNumber_ANC03LA048]?,1 None
+What airworthiness certificate does [Registration_N7448G] have?,Normal
+What is the airplane rating associated with [Pilot_NYC04FA100]?,Single-engineLand
+What is the engine model associated with [Registration_N7615Z]?,O-320
+What caused [AccidentNumber_DEN04FA027B]?,LIGHTCONDITION|VISUALLOOKOUT|CLEARANCE
+What is the total injury associated with [AccidentNumber_IAD03FA035]?,3 Fatal
+What is the Federal Aviation Regulation associated with [AccidentNumber_NYC04LA025]?,Part91GeneralAviation-Personal
+What caused [AccidentNumber_SEA82DA022]?,TERRAINCONDITION|ABORTEDTAKEOFF|AIRPORTFACILITIESRUNWAY/LANDINGAREACONDITION|UNSUITABLETERRAINORTAKEOFF/LANDING/TAXIAREA
+What is the airplane rating associated with [Pilot_DEN05LA060]?,Single-engineLand
+What is the second event associated with [AccidentNumber_FTW04LA090]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_RUNWAY_LIGHT
+What is the total injury associated with [AccidentNumber_CHI05LA173]?,2 None
+In which country did [AccidentNumber_LAX01LA135] occur?,NV
+What is the first event associated with [AccidentNumber_ATL87LA103]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_TURBULENCE
+What is the Flight Crew associated with [AccidentNumber_NYC83FA107]?,PILOT_IN_COMMAND
+What is the second event associated with [AccidentNumber_LAX05LA253]?,FORCED_LANDING
+What is the engine manufacturer associated with [Registration_N39678]?,Lycoming
+What was the result of the last inspection for [Registration_N60539]?,Annual
+What is the aircraft damage associated with [AccidentNumber_ATL02FA162]?,Destroyed
+What was the result of the last inspection for [Registration_N36SK]?,Annual
+What caused [AccidentNumber_LAX01LA083]?,ACFT/EQUIPINADEQUATEDESIGN
+What is the first event associated with [AccidentNumber_LAX89LA102]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_DOWNDRAFT
+What is the restraint used associated with [Pilot_CHI05LA067]?,"Seatbelt, Shoulder harness"
+What is the aircraft manufacturer associated with [Registration_N123JL]?,Cessna
+What caused [AccidentNumber_SEA04LA093]?,OBJECT|DIVERTEDATTENTION|CLEARANCE
+What [instrument rating] does [Pilot_CHI05LA050] have?,Airplane
+What is the third event associated with [AccidentNumber_MKC87LA053]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_NYC95LA038]?,PILOT_IN_COMMAND
+What is the crew injury associated with [AccidentNumber_ATL01LA086]?,1 None
+What is the lowest ceiling associated with [AccidentNumber_ATL04LA167]?,___Unknown___LowestCeiling
+What is the aircraft damage associated with [AccidentNumber_MIA02FA162]?,Substantial
+What is the first event associated with [AccidentNumber_FTW99LA178]?,LOSS_OF_ENGINE_POWER
+What is the lowest cloud condition associated with [AccidentNumber_LAX05LA154]?,Clear
+What is the Flight Crew associated with [AccidentNumber_CHI83LA001]?,PILOT_IN_COMMAND
+What is the seat occupancy associated with [Pilot_MIA02FAMS1]?,Front
+What is the lowest cloud condition associated with [AccidentNumber_ATL04LA074]?,Clear
+What is the crew injury associated with [AccidentNumber_CHI02LA226]?,1 None
+What is the Aircraft Explosion associated with [AccidentNumber_MIA03CA103]?,___Unknown___AircraftExplosion
+What is the Flight Crew associated with [AccidentNumber_LAX95LA070]?,PILOT_IN_COMMAND
+What is the engine model associated with [Registration_N618MN]?,O-320-H2AD
+What caused [AccidentNumber_ATL86FA155]?,WEATHERCONDITION|FLIGHTPLANNING/DECISION|VFRFLIGHTINTOIMC|OVERCONFIDENCEINPERSONALABILITY|LACKOFTOTALINSTRUMENTTIME|WEATHEREVALUATION|VISUALLOOKOUT|OBJECT|PROCEDURES/DIRECTIVES
+What is the runway surface type associated with [AccidentNumber_ANC02LA067]?,___Unknown___RunwaySurfaceType
+What is the first event associated with [AccidentNumber_DEN04FA027B]?,COLLISION_BETWEEN_AIRCRAFT_(OTHER_THAN_MIDAIR)
+What are the operating certificates held by [Registration_N155HF]?,___Unknown___OperatingCertificatesHeld
+What is the third event associated with [AccidentNumber_MIA97LA033]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the aircraft damage associated with [AccidentNumber_NYC03FA001]?,Destroyed
+What [instrument rating] does [Pilot_IAD05LA022] have?,Airplane
+What is the total injury associated with [AccidentNumber_FTW01LA067]?,3 None
+What is the second event associated with [AccidentNumber_CHI83FA353]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_FENCE
+What certificate does [Pilot_ATL05CA092] have?,Private
+What is the third event associated with [AccidentNumber_LAX01LA137]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_AIRPORT_SIGN/MARKER
+What is the second event associated with [AccidentNumber_SEA00FA014]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What caused [AccidentNumber_CHI89LA067]?,FLIGHTCONTROLS|DIRECTIONALCONTROL|SUPERVISION|LACKOFTOTALEXPERIENCEINTYPEOPERATION|WEATHERCONDITION|TERRAINCONDITION|GROUNDLOOP/SWERVE|LACKOFTOTALEXPERIENCE
+What is the Federal Aviation Regulation associated with [AccidentNumber_ATL05FA032]?,Part91GeneralAviation-Business
+What airspace is associated with [AccidentNumber_LAX02LA078]?,ClassG
+What is the aircraft damage associated with [AccidentNumber_ATL03LA086]?,Substantial
+What is the second event associated with [AccidentNumber_CHI89LA102]?,OVERRUN
+What medical certification does [Pilot_DEN05TA033] have?,Class 2 Valid Medical--w/ waivers/lim.
+What is the landing gear associated with [Registration_N5483H]?,Tailwheel
+What is the clearance associated with [AccidentNumber_LAX04FA001]?,IFR
+What caused [AccidentNumber_NYC84LA125]?,REMEDIALACTION|DIRECTIONALCONTROL|TERRAINCONDITION|GROUNDLOOP/SWERVE
+What is the Visual Flight Rules approach associated with [AccidentNumber_LAX02LA076]?,FullStop;TrafficPattern
+What certificate does [Pilot_ANC02LA089] have?,Commercial
+What is the crew injury associated with [AccidentNumber_MIA02LA077]?,1 Serious
+What is the runway surface type associated with [AccidentNumber_LAX01LA164]?,Asphalt
+What was the result of the last inspection for [Registration_N8212D]?,Annual
+What is the engine manufacturer associated with [Registration_N158SD]?,GeneralElectric
+What is the Flight Crew associated with [AccidentNumber_SEA94LA134]?,PILOT_IN_COMMAND
+What certificate does [Pilot_NYC02LA090] have?,Commercial
+What medical certification does [Pilot_ANC01LA136] have?,Class 2 Valid Medical--w/ waivers/lim.
+What is the first event associated with [AccidentNumber_LAX06FA283]?,LOSS_OF_ENGINE_POWER
+What is the crew injury associated with [AccidentNumber_FTW03LA102]?,1 None
+What is the restraint used associated with [Pilot_LAX01LA089]?,"Seatbelt, Shoulder harness"
+What does [Registration_N91FK] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the Flight Crew associated with [AccidentNumber_ANC01LA066]?,PILOT_IN_COMMAND
+What are the conditions at the accident site associated with [AccidentNumber_FTW03LA002]?,Visual Conditions
+What airworthiness certificate does [Registration_N2129Q] have?,Normal
+What is the condition of light associated with [AccidentNumber_DEN01LA062]?,Day
+What is the third event associated with [AccidentNumber_CHI06LA074]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the engine manufacturer associated with [Registration_N2849Z]?,Lycoming
+What was the result of the last inspection for [Registration_N4721K]?,Annual
+In which country did [AccidentNumber_LAX05LA253] occur?,CA
+What is the crew injury associated with [AccidentNumber_DEN03LA062]?,1 None
+What airspace is associated with [AccidentNumber_CHI04FA133]?,ClassE
+What caused [AccidentNumber_FTW85FA034]?,AEROBATICS|ALTITUDE|JUDGMENT
+What is the runway surface type associated with [AccidentNumber_FTW02FA222]?,___Unknown___RunwaySurfaceType
+What caused [AccidentNumber_ATL87MA035]?,WEATHERCONDITION|PROPERALTITUDE|LIGHTCONDITION|OVERCONFIDENCEINPERSONALABILITY|FLIGHTINTOKNOWNADVERSEWEATHER|PLANNING/DECISION
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX03LA020]?,Part91GeneralAviation-Instructional
+What caused [AccidentNumber_MIA88LA051]?,PRECAUTIONARYLANDING|BECAMELOST/DISORIENTED|UNSUITABLETERRAINORTAKEOFF/LANDING/TAXIAREA
+What is the runway surface condition associated with [AccidentNumber_IAD02LA080]?,Dry
+What is the second event associated with [AccidentNumber_NYC05CA047]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the total injury associated with [AccidentNumber_DFW05CA097]?,1 None
+What is the aircraft issue that caused [AccidentNumber_CHI05CA039]?,___Unknown___AircraftIssue
+What is the Flight Crew associated with [AccidentNumber_MKC84LA055]?,PILOT_IN_COMMAND
+What medical certification does [Pilot_NYC05FA026] have?,Class 1 With Waivers/Limitations
+What is the engine manufacturer associated with [Registration_N589Q]?,TextronLycoming
+What is the first event associated with [AccidentNumber_CHI97LA193]?,LOSS_OF_ENGINE_POWER
+What medical certification does [Pilot_ATL02FA072] have?,Class 1 Valid Medical--w/ waivers/lim.
+What is the second event associated with [AccidentNumber_DEN04LA020]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the aircraft damage associated with [AccidentNumber_DEN01LA109]?,Destroyed
+In which country did [AccidentNumber_ATL02TA030] occur?,FL
+What airspace is associated with [AccidentNumber_ATL01LA051]?,ClassG
+What does [Registration_N513TS] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What are the conditions at the accident site associated with [AccidentNumber_DEN01LA047]?,Visual Conditions
+What is the landing gear associated with [Registration_N62712]?,Tricycle
+What airworthiness certificate does [Registration_N91FK] have?,Normal
+What airspace is associated with [AccidentNumber_LAX04CA175]?,ClassE
+What is the Flight Crew associated with [AccidentNumber_CHI89FA040]?,PILOT_IN_COMMAND
+In which country did [AccidentNumber_CHI05LA086] occur?,WI
+What is the fourth event associated with [AccidentNumber_MIA88LA080]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What [instrument rating] does [Pilot_ATL02FA113] have?,Airplane
+What environmental issue caused [AccidentNumber_IAD01FA089]?,___Unknown___EnvironmentalIssue
+What is the engine model associated with [Registration_N62712]?,O-320
+What is the crew injury associated with [AccidentNumber_NYC05CA047]?,1 None
+What is the restraint used associated with [Pilot_FTW03LA001]?,"Seatbelt, Shoulder harness"
+What airworthiness certificate does [Registration_N22RJ] have?,Normal
+What is the restraint used associated with [Pilot_FTW01LA045]?,"Seatbelt, Shoulder harness"
+What is the lowest cloud condition associated with [AccidentNumber_LAX04LA199]?,Clear
+What is the Visual Flight Rules approach associated with [AccidentNumber_SEA04LA077]?,___Unknown___VisualFlightRulesApproach
+What is the Flight Crew associated with [AccidentNumber_DCA94MA022]?,COPILOT/SECOND_PILOT|PILOT_IN_COMMAND
+What certificate does [Pilot_SEA04LA001] have?,Private
+What are the operating certificates held by [Registration_N916CA]?,Flag carrier (121)
+What is the second event associated with [AccidentNumber_ATL99LA105]?,FORCED_LANDING
+What is the clearance associated with [AccidentNumber_CHI03LA002]?,___Unknown___TypeOfClearance
+What is the Federal Aviation Regulation associated with [AccidentNumber_DEN01LA059]?,Part91GeneralAviation-Personal
+What is the first event associated with [AccidentNumber_BFO90LA019]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the condition of light associated with [AccidentNumber_MIA02LA164]?,Day
+What is the third event associated with [AccidentNumber_DEN89LA002]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the second event associated with [AccidentNumber_CHI01LA194]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What environmental issue caused [AccidentNumber_CHI01FA129]?,___Unknown___EnvironmentalIssue
+What caused [AccidentNumber_ATL96FA114]?,UNSUITABLETERRAINORTAKEOFF/LANDING/TAXIAREA|EMERGENCYPROCEDURE
+What caused [AccidentNumber_FTW84FA297]?,AIRCRAFTHANDLING|CLEARANCE|OVERCONFIDENCEINPERSONALABILITY|AIRSPEED
+What passanger injury is associated with [AccidentNumber_LAX03LA080]?,1 None
+What caused [AccidentNumber_ATL89LA186]?,FLUIDFUEL|TERRAINCONDITION|AIRCRAFTPREFLIGHT
+What caused [AccidentNumber_ATL84LA008]?,AIRSPEED|FLARE|ABORT|LACKOFTOTALEXPERIENCEINTYPEOPERATION
+What is the crew injury associated with [AccidentNumber_ANC01LA063]?,1 None
+What is the Visual Flight Rules approach associated with [AccidentNumber_ATL03LA029]?,___Unknown___VisualFlightRulesApproach
+What is the landing gear associated with [Registration_N8885F]?,Skid
+What medical certification does [Pilot_DEN04LA056] have?,Class 2 Valid Medical--no waivers/lim.
+What caused [AccidentNumber_NYC88LA100]?,AIRCRAFTPREFLIGHT|FLUIDOIL|TERRAINCONDITION
+What is the seat occupancy associated with [Pilot_ATL05CA056]?,Left
+What is the restraint used associated with [Pilot_ANC04LA060]?,"Seatbelt, Shoulder harness"
+What is the Flight Crew associated with [AccidentNumber_FTW94FA114]?,PILOT_IN_COMMAND
+What is the second event associated with [AccidentNumber_LAX86LA150]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the runway surface type associated with [AccidentNumber_FTW03FA027]?,___Unknown___RunwaySurfaceType
+What is the Flight Crew associated with [AccidentNumber_IAD03FA035]?,PILOT_IN_COMMAND
+What is the restraint used associated with [Pilot_MIA03LA089]?,"Seatbelt, Shoulder harness"
+What airspace is associated with [AccidentNumber_NYC04CA019]?,ClassG
+What is the first event associated with [AccidentNumber_ATL01LA043]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What is the Flight Crew associated with [AccidentNumber_ANC86FA007]?,PILOT_IN_COMMAND
+What engine is associated with [Registration_N2842D]?,1Reciprocating
+What is the runway surface condition associated with [AccidentNumber_NYC04LA025]?,Dry
+What is the aircraft damage associated with [AccidentNumber_ATL01LA051]?,Substantial
+What is the condition of light associated with [AccidentNumber_DEN05CA018]?,Day
+What is the Visual Flight Rules approach associated with [AccidentNumber_ANC05CA054]?,FullStop
+What is the second event associated with [AccidentNumber_LAX83FUG11]?,FORCED_LANDING
+What is the third event associated with [AccidentNumber_ANC96LA112]?,NOSE_GEAR_COLLAPSED
+What is the second event associated with [AccidentNumber_ATL92LA135]?,FORCED_LANDING
+What airspace is associated with [AccidentNumber_CHI02LA024]?,ClassE
+What is the Flight Crew associated with [AccidentNumber_NYC06TA190]?,DUAL_STUDENT|PILOT_IN_COMMAND(CFI)
+What caused [AccidentNumber_MIA02LA057]?,FLIGHTPLANNING/DECISION|REASONFOROCCURRENCEUNDETERMINED|AIRSPEED
+What are the conditions at the accident site associated with [AccidentNumber_NYC02LA128]?,Visual Conditions
+What is the first event associated with [AccidentNumber_ANC87LA092]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What are the conditions at the accident site associated with [AccidentNumber_MIA04CA055]?,Visual Conditions
+What caused [AccidentNumber_CHI04LA026]?,AIRCRAFTCONTROL
+What is the third event associated with [AccidentNumber_CHI92LA160]?,FORCED_LANDING
+What certificate does [Pilot_NYC04LA151] have?,Private
+What is the runway surface condition associated with [AccidentNumber_ANC01LA131]?,___Unknown___RunwaySurfaceCondition
+What airworthiness certificate does [Registration_N89255] have?,Normal
+What is the third event associated with [AccidentNumber_CHI00LA103]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_FENCE
+What is the lowest cloud condition associated with [AccidentNumber_LAX05LA002]?,Clear
+What is the first event associated with [AccidentNumber_ATL01LA063A]?,MIDAIR_COLLISION
+What is the second event associated with [AccidentNumber_CHI01LA195]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What was the result of the last inspection for [Registration_N3910F]?,Annual
+What is the Federal Aviation Regulation associated with [AccidentNumber_SEA02FA023]?,Part91GeneralAviation-FlightTest
+What is the first event associated with [AccidentNumber_CHI07CA001]?,OVERRUN
+What airspace is associated with [AccidentNumber_ATL05CA019]?,ClassE
+What is the first event associated with [AccidentNumber_CHI83LA074]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What aircraft category does [Registration_N2495C] belong to?,Airplane
+What is the instrument flight rules approach associated with [AccidentNumber_ATL04LA001]?,___Unknown___InstrumentFlightRulesApproach
+What is the second event associated with [AccidentNumber_CHI93GA046]?,FORCED_LANDING
+What is the condition of light associated with [AccidentNumber_DFW05CA174]?,Day
+What certificate does [Pilot_CHI05CA060] have?,Commercial
+What was the result of the last inspection for [Registration_N37731]?,Annual
+What is the lowest cloud condition associated with [AccidentNumber_CHI03LA294]?,Few / 4000 ft agl
+What certificate does [Pilot_SEA01LA164] have?,Private
+What is the total injury associated with [AccidentNumber_FTW04FA054]?,2 Fatal
+What is the aircraft manufacturer associated with [Registration_N3895D]?,Bell
+What is the Visual Flight Rules approach associated with [AccidentNumber_CHI04LA084]?,___Unknown___VisualFlightRulesApproach
+What is the second event associated with [AccidentNumber_ATL93LA067]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the first event associated with [AccidentNumber_LAX07TA051]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the aircraft damage associated with [AccidentNumber_CHI04LA144]?,Substantial
+What caused [AccidentNumber_DEN08CA001]?,WEATHERCONDITION|AIRCRAFTCONTROL|RECOVERYFROMBOUNCEDLANDING
+What is the total injury associated with [AccidentNumber_MIA01LA207]?,2 Minor
+What are the conditions at the accident site associated with [AccidentNumber_ANC04LA034]?,Visual Conditions
+What is the restraint used associated with [Pilot_NYC04CA022]?,Seatbelt
+What certificate does [Pilot_ANC02FA042] have?,Private
+What environmental issue caused [AccidentNumber_LAX01LA231]?,___Unknown___EnvironmentalIssue
+What is the first event associated with [AccidentNumber_SEA02LA010]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What is the seat occupancy associated with [Pilot_MIA04CA055]?,Rear
+What aircraft category does [Registration_N27MR] belong to?,Airplane
+What is the landing gear associated with [Registration_N67524]?,Tricycle
+What is the Flight Crew associated with [AccidentNumber_MIA99LA117]?,PILOT_IN_COMMAND
+What is the engine manufacturer associated with [Registration_N14843]?,Continental
+What is the third event associated with [AccidentNumber_ANC94LA053]?,DITCHING
+What is the landing gear associated with [Registration_N8547N]?,Tricycle
+What is the aircraft issue that caused [AccidentNumber_ANC02LA088]?,___Unknown___AircraftIssue
+What was the result of the last inspection for [Registration_G-GMAC]?,Continuous Airworthiness
+What medical certification does [Pilot_ATL03LA086] have?,Class 2 Valid Medical--w/ waivers/lim.
+What is the first event associated with [AccidentNumber_FTW82DA078]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What caused [AccidentNumber_ATL93LA049]?,GEAREXTENSION|ELECTRICALSYSTEM|CHECKLIST
+What is the total injury associated with [AccidentNumber_LAX05CA001]?,1 None
+What is the Flight Crew associated with [AccidentNumber_ANC91FA115]?,PILOT_IN_COMMAND
+What is the Federal Aviation Regulation associated with [AccidentNumber_ATL04LA001]?,Part91GeneralAviation-Personal
+What caused [AccidentNumber_CHI90LA121]?,LIGHTCONDITION|AIRSPEED|DISTANCE|TERRAINCONDITION
+What is the third event associated with [AccidentNumber_NYC96LA069]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the Flight Crew associated with [AccidentNumber_SEA00LA027]?,PILOT_IN_COMMAND(CFI)
+What is the runway surface condition associated with [AccidentNumber_LAX05CA129]?,Dry
+What is the airplane rating associated with [Pilot_IAD05LA009]?,Multi-engineLand;Single-engineLand
+What is the first event associated with [AccidentNumber_SEA03LA032]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the airport associated with [AccidentNumber_SEA01LA110]?,___Unknown___Airport
+What is the engine model associated with [Registration_N2008X]?,O-470
+What is the seat occupancy associated with [Pilot_IAD04LA019]?,Left
+What is the condition of light associated with [AccidentNumber_CHI01LA195]?,Day
+What was the result of the last inspection for [Registration_N66758]?,Annual
+What is the total injury associated with [AccidentNumber_CHI02TA149]?,1 None
+What is the Flight Crew associated with [AccidentNumber_CHI92FA119]?,PILOT_IN_COMMAND
+What is the runway surface condition associated with [AccidentNumber_NYC02LA024]?,Dry
+What is the fourth event associated with [AccidentNumber_CHI04FA203]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the total injury associated with [AccidentNumber_CHI01LA195]?,1 None
+What is the aircraft manufacturer associated with [Registration_N343BA]?,Beech
+What airspace is associated with [AccidentNumber_LAX01FA134]?,ClassG
+What does [Registration_N1056L] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the first event associated with [AccidentNumber_BFO92LA053]?,OVERRUN
+What is the restraint used associated with [Pilot_MIA05LA001]?,"Seatbelt, Shoulder harness"
+What is the Flight Crew associated with [AccidentNumber_IAD02FA047]?,PILOT_IN_COMMAND
+What is the engine manufacturer associated with [Registration_N43615]?,Continental
+What is the third event associated with [AccidentNumber_SEA83LA050]?,NOSE_GEAR_COLLAPSED
+What engine is associated with [Registration_N9199W]?,1Reciprocating
+What is the condition of light associated with [AccidentNumber_LAX02LA123]?,Day
+What does [Registration_N7180Q] have in terms of an emergency locator transmitter?,"Installed, activated, did not aid in locating accident"
+What is the Aircraft Explosion associated with [AccidentNumber_NYC05CA079]?,___Unknown___AircraftExplosion
+What is the lowest cloud condition associated with [AccidentNumber_MIA03LA021]?,Clear
+What engine is associated with [Registration_N30CM]?,1Reciprocating
+What aircraft category does [Registration_N190WC] belong to?,Airplane
+What is the second event associated with [AccidentNumber_LAX85LA020]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the Flight Crew associated with [AccidentNumber_ATL82DA259]?,PILOT_IN_COMMAND
+What was the result of the last inspection for [Registration_N9DD]?,Annual
+What are the operating certificates held by [Registration_N985SA]?,On-demand Air Taxi (135)
+What airworthiness certificate does [Registration_N8199] have?,Experimental
+What aircraft category does [Registration_N50718] belong to?,Airplane
+What are the conditions at the accident site associated with [AccidentNumber_LAX02LA076]?,Visual Conditions
+What is the aircraft damage associated with [AccidentNumber_FTW02FA222]?,Destroyed
+What airworthiness certificate does [Registration_N2221X] have?,Experimental
+What is the aircraft issue that caused [AccidentNumber_SEA05CA035]?,___Unknown___AircraftIssue
+What is the aircraft issue that caused [AccidentNumber_NYC02LA070]?,___Unknown___AircraftIssue
+What is the total injury associated with [AccidentNumber_MIA02LA038]?,1 None
+What caused [AccidentNumber_NYC86FNC02]?,RECOVERYFROMBOUNCEDLANDING|REASONFOROCCURRENCEUNDETERMINED|OBJECT|REMEDIALACTION
+What is the seat occupancy associated with [Pilot_CHI03LA121]?,Front
+What is the total injury associated with [AccidentNumber_ATL04LA105]?,1 Minor
+What is the first event associated with [AccidentNumber_DEN01LA119]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What does [Registration_N21306] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the seat occupancy associated with [Pilot_NYC02LA091]?,Left
+What engine is associated with [Registration_N46TP]?,1TurboShaft
+What is the runway surface condition associated with [AccidentNumber_DEN03LA117]?,Dry
+What is the airframe total time associated with [Registration_N70P]?,___Unknown___AirframeTotalTime
+What is the third event associated with [AccidentNumber_CHI07FA016]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What certificate does [Pilot_MIA01LA088] have?,AirlineTransport;FlightInstructor;Commercial
+What caused [AccidentNumber_SEA89FA001]?,MANEUVER|STALL|AIRSPEED|PROPERCLIMBRATE|FLIGHTCONTROLS
+What is the first event associated with [AccidentNumber_DEN88DTM01]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the total injury associated with [AccidentNumber_FTW02LA044]?,2 None
+What is the first event associated with [AccidentNumber_ATL88LA071]?,LOSS_OF_ENGINE_POWER
+What does [Registration_N88387] have in terms of an emergency locator transmitter?,___Unknown___ELT
+What airworthiness certificate does [Registration_N6300P] have?,Normal
+What is the engine manufacturer associated with [Registration_N383MA]?,Lycoming
+What is the first event associated with [AccidentNumber_ATL84LA002]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the second event associated with [AccidentNumber_ATL82DA061]?,LOSS_OF_ENGINE_POWER
+What is the first event associated with [AccidentNumber_DEN91LA095]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What does [Registration_N25BA] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What was the result of the last inspection for [Registration_N49SJ]?,100 Hour
+What is the first event associated with [AccidentNumber_CHI83LA287]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the Federal Aviation Regulation associated with [AccidentNumber_CHI03LA242]?,Part91GeneralAviation-Personal
+What caused [AccidentNumber_FTW82DA078]?,COMPENSATIONFORWINDCONDITIONS|DIRECTIONALCONTROL|WEATHERCONDITION|GROUNDLOOP/SWERVE
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_LAX83LA313]?,OTHER_MAINTENANCE_PERSONNEL
+What is the Flight Crew associated with [AccidentNumber_LAX01LA135]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_SEA90FA039]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_FTW90FA002]?,PILOT_IN_COMMAND
+What is the aircraft manufacturer associated with [Registration_N9765R]?,Beech
+What airspace is associated with [AccidentNumber_NYC04CA150]?,ClassD
+What is the runway surface type associated with [AccidentNumber_SEA02LA010]?,Asphalt
+What is the Flight Crew associated with [AccidentNumber_FTW89LA061]?,PILOT_IN_COMMAND
+What is the first event associated with [AccidentNumber_CHI83LA127]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What caused [AccidentNumber_NYC05FA026]?,WEATHERCONDITION
+What flight plan was filed for [AccidentNumber_MIA05LA066]?,IFR
+What is the total injury associated with [AccidentNumber_CHI05LA064]?,1 None
+What is the aircraft issue that caused [AccidentNumber_ANC05CA054]?,___Unknown___AircraftIssue
+What is the crew injury associated with [AccidentNumber_ANC04LA018]?,1 Serious
+What are the operating certificates held by [Registration_N90802]?,___Unknown___OperatingCertificatesHeld
+What instructor rating does [Pilot_CHI04LA124] have?,Airplane Single-engine
+What certificate does [Pilot_FTW04LA105] have?,Student
+What airworthiness certificate does [Registration_N370V] have?,Transport
+What caused [AccidentNumber_ATL97FA034]?,AIRSPEED|STALL
+What is the third event associated with [AccidentNumber_DEN91LA095]?,HARD_LANDING
+What is the third event associated with [AccidentNumber_IAD97LA071]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the landing gear associated with [Registration_N1177M]?,Tricycle
+What airspace is associated with [AccidentNumber_SEA02FA023]?,ClassC
+What caused [AccidentNumber_DEN01LA158]?,SUPERVISION|WEATHERCONDITION
+What caused [AccidentNumber_DEN85LA089]?,FUELSYSTEM|REMEDIALACTION|TERRAINCONDITION|EMERGENCYPROCEDURE
+What is the clearance associated with [AccidentNumber_CHI04CA219]?,VFR
+What airworthiness certificate does [Registration_N2724R] have?,Normal
+What is the first event associated with [AccidentNumber_FTW97LA054]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_FENCE_POST
+What is the landing gear associated with [Registration_N75844]?,Tricycle
+What caused [AccidentNumber_IAD98LA088]?,DIRECTIONALCONTROL|WEATHERCONDITION
+What caused [AccidentNumber_CHI97LA064]?,DIRECTIONALCONTROL|TERRAINCONDITION
+What is the condition of light associated with [AccidentNumber_MIA03CA103]?,Day
+What is the Flight Crew associated with [AccidentNumber_ANC87LA089]?,PILOT_IN_COMMAND
+What is the condition of light associated with [AccidentNumber_SEA03LA182]?,Day
+What is the Visual Flight Rules approach associated with [AccidentNumber_FTW04LA202A]?,FullStop
+What medical certification does [Pilot_NYC03LA096] have?,Class 2 Valid Medical--no waivers/lim.
+In which country did [AccidentNumber_CHI03LA187] occur?,IN
+What environmental issue caused [AccidentNumber_CHI02LA115]?,___Unknown___EnvironmentalIssue
+What medical certification does [Pilot_ATL04LA088] have?,Class 2 Without Waivers/Limitations
+What is the first event associated with [AccidentNumber_FTW86LA160]?,LOSS_OF_ENGINE_POWER(PARTIAL)_-_MECH_FAILURE/MALF
+What is the lowest cloud condition associated with [AccidentNumber_CHI03FA003]?,Clear
+What certificate does [Pilot_ANC05FA090] have?,AirlineTransport;FlightInstructor
+What is the Flight Crew associated with [AccidentNumber_ANC05CA054]?,PILOT_IN_COMMAND
+What is the total injury associated with [AccidentNumber_DEN03LA117]?,1 None
+What aircraft category does [Registration_N2938J] belong to?,Airplane
+What was the result of the last inspection for [Registration_N3233M]?,Annual
+What is the seat occupancy associated with [Pilot_NYC04FA137]?,Left
+What is the condition of light associated with [AccidentNumber_LAX02FA038]?,Night
+What is the Flight Crew associated with [AccidentNumber_DEN85LA107]?,PILOT_IN_COMMAND
+What is the airframe total time associated with [Registration_N56715]?,___Unknown___AirframeTotalTime
+What was the result of the last inspection for [Registration_N21468]?,Continuous Airworthiness
+What are the conditions at the accident site associated with [AccidentNumber_FTW04LA226]?,Visual Conditions
+What is the airplane rating associated with [Pilot_CHI03LA001]?,Single-engineLand
+What is the runway surface type associated with [AccidentNumber_FTW03LA002]?,Asphalt
+What aircraft category does [Registration_N2686W] belong to?,Airplane
+What is the first event associated with [AccidentNumber_ATL88LA126]?,HARD_LANDING
+What is the condition of light associated with [AccidentNumber_FTW01LA135]?,Day
+What medical certification does [Pilot_CHI05CA208] have?,Class 3
+What was the result of the last inspection for [Registration_N6315P]?,Annual
+What is the first event associated with [AccidentNumber_NYC02LA128]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What is the engine manufacturer associated with [Registration_N3575X]?,Lycoming
+What engine is associated with [Registration_N8885F]?,1Reciprocating
+What airworthiness certificate does [Registration_N915X] have?,Restricted
+What aircraft category does [Registration_N2221X] belong to?,Airplane
+What is the aircraft manufacturer associated with [Registration_N4686J]?,Piper
+What is the Federal Aviation Regulation associated with [AccidentNumber_FTW04FA052]?,Part91GeneralAviation-Personal
+What are the operating certificates held by [Registration_N257LA]?,___Unknown___OperatingCertificatesHeld
+What is the runway surface condition associated with [AccidentNumber_SEA03LA032]?,Dry
+What is the restraint used associated with [Pilot_CHI05CA208]?,"Seatbelt, Shoulder harness"
+What caused [AccidentNumber_FTW98FA291]?,MAINTENANCEANNUALINSPECTION|FUELSYSTEMLINE|AIRSPEEDVS
+What caused [AccidentNumber_ATL01LA051]?,DIRECTIONALCONTROL
+What is the second event associated with [AccidentNumber_NYC88LA024]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the fourth event associated with [AccidentNumber_ANC95LA126]?,NOSE_OVER
+What is the total injury associated with [AccidentNumber_MIA03LA139]?,"1 Serious, 1 Minor"
+What caused [AccidentNumber_CHI82DA230]?,OBJECT|FLUIDOIL|TERRAINCONDITION
+What is the Flight Crew associated with [AccidentNumber_FTW03LA001]?,PILOT_IN_COMMAND
+What flight plan was filed for [AccidentNumber_ATL02FA113]?,IFR
+What medical certification does [Pilot_LAX02LA147] have?,Class 2
+What is the first event associated with [AccidentNumber_DEN82DA077]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the clearance associated with [AccidentNumber_IAD02LA039]?,IFR
+What is the second event associated with [AccidentNumber_FTW89LA061]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the first event associated with [AccidentNumber_LAX92LA076]?,LOSS_OF_ENGINE_POWER
+What certificate does [Pilot_DFW05CA097] have?,Student
+What is the third event associated with [AccidentNumber_ATL94FA012]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What are the conditions at the accident site associated with [AccidentNumber_ATL04LA001]?,Visual Conditions
+What engine is associated with [Registration_N106LN]?,1TurboShaft
+What are the conditions at the accident site associated with [AccidentNumber_CHI05LA064]?,Visual Conditions
+What is the seat occupancy associated with [Pilot_MIA05LA001]?,Left
+What is the condition of light associated with [AccidentNumber_ATL05TA055]?,Day
+What aircraft category does [Registration_N9091D] belong to?,Airplane
+What is the airplane rating associated with [Pilot_MIA05LA021]?,Single-engineLand
+What is the second event associated with [AccidentNumber_MIA84FU003]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+In which country did [AccidentNumber_SEA02LA001] occur?,MT
+What aircraft category does [Registration_N448DH] belong to?,Airplane
+What is the aircraft fire associated with [AccidentNumber_CHI01FA111]?,On-Ground
+What engine is associated with [Registration_N1811N]?,1Reciprocating
+What engine is associated with [Registration_N9062D]?,1Reciprocating
+What is the lowest cloud condition associated with [AccidentNumber_CHI05CA208]?,___Unknown___LowestCloudCondition
+What is the second event associated with [AccidentNumber_ATL06LA114]?,FORCED_LANDING
+What is the Flight Crew associated with [AccidentNumber_MKC89LA101]?,PILOT_IN_COMMAND
+What airworthiness certificate does [Registration_N5677X] have?,Utility
+What is the condition of light associated with [AccidentNumber_CHI03LA194]?,Day
+What caused [AccidentNumber_LAX99FA138]?,FLIGHTINTOKNOWNADVERSEWEATHER|WEATHERCONDITION|WEATHERFORECAST|TERRAINCONDITION|WING
+What caused [AccidentNumber_FTW88LA113]?,REFUELING|OBJECT|PREFLIGHTPLANNING/PREPARATION|FLUIDFUEL
+What is the second event associated with [AccidentNumber_LAX03LA019]?,ROLL_OVER
+What is the first event associated with [AccidentNumber_ANC85LA019]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the condition of light associated with [AccidentNumber_ATL04LA088]?,Day
+What airspace is associated with [AccidentNumber_ATL02FA113]?,ClassB
+What are the conditions at the accident site associated with [AccidentNumber_ANC03LA017]?,Visual Conditions
+What is the third event associated with [AccidentNumber_CHI07CA253]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the aircraft damage associated with [AccidentNumber_FTW02LA029]?,Substantial
+What is the second event associated with [AccidentNumber_MIA04LA050]?,FORCED_LANDING
+What certificate does [Pilot_IAD02FA047] have?,AirlineTransport;Commercial
+What environmental issue caused [AccidentNumber_CHI03LA242]?,___Unknown___EnvironmentalIssue
+What instructor rating does [Pilot_LAX05CA129] have?,___Unknown___InstructorRating
+What is the Flight Crew associated with [AccidentNumber_DEN88FA061]?,PILOT_IN_COMMAND
+What is the crew injury associated with [AccidentNumber_IAD05LA071]?,1 None
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX02LA074]?,Part91GeneralAviation-Instructional
+What is the aircraft issue that caused [AccidentNumber_ANC03LA009]?,___Unknown___AircraftIssue
+What is the airplane rating associated with [Pilot_CHI02TA149]?,Multi-engineLand;Single-engineLand;Single-engineSea
+What is the second event associated with [AccidentNumber_LAX95FA029]?,FORCED_LANDING
+What is the second event associated with [AccidentNumber_ANC05LA133]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the first event associated with [AccidentNumber_MIA88LA263]?,LOSS_OF_ENGINE_POWER
+What is the seat occupancy associated with [Pilot_ANC05CA054]?,Front
+What is the Flight Crew associated with [AccidentNumber_CHI83LA406]?,PILOT_IN_COMMAND
+In which country did [AccidentNumber_ATL04LA044] occur?,AL
+What is the third event associated with [AccidentNumber_FTW02LA010]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the lowest cloud condition associated with [AccidentNumber_MIA01LA088]?,___Unknown___LowestCloudCondition
+What is the aircraft damage associated with [AccidentNumber_CHI02LA115]?,Substantial
+What is the Flight Crew associated with [AccidentNumber_FTW96FA058]?,PILOT_IN_COMMAND(CFI)
+What environmental issue caused [AccidentNumber_CHI01LA255]?,___Unknown___EnvironmentalIssue
+What is the clearance associated with [AccidentNumber_SEA02LA001]?,VFR
+What caused [AccidentNumber_CHI99LA081]?,PREFLIGHTPLANNING/PREPARATION|FLUIDFUEL|WEATHERCONDITION|TERRAINCONDITION
+What engine is associated with [Registration_N1928J]?,1Reciprocating
+What is the third event associated with [AccidentNumber_ATL03FA115]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_LAX86LA150]?,PILOT_IN_COMMAND
+What is the third event associated with [AccidentNumber_ATL92FA042]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_SIGN
+What does [Registration_N7615Z] have in terms of an emergency locator transmitter?,"Installed, activated, did not aid in locating accident"
+What caused [AccidentNumber_DFW05LA027]?,FLUIDFUEL|FUELTANKSELECTORPOSITION|FUELMANAGEMENT
+What is the Flight Crew associated with [AccidentNumber_SEA85LA102]?,PILOT_IN_COMMAND
+What airworthiness certificate does [Registration_N4602S] have?,Normal
+What medical certification does [Pilot_MIA03LA139] have?,Class 2 Valid Medical--w/ waivers/lim.
+In which country did [AccidentNumber_FTW03LA004] occur?,AR
+What is the engine manufacturer associated with [Registration_N2184N]?,Continental
+What is the second event associated with [AccidentNumber_CHI98LA188]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_FTW92LA125]?,PILOT_IN_COMMAND
+What is the aircraft damage associated with [AccidentNumber_LAX05LA060]?,Substantial
+What caused [AccidentNumber_DEN86LA059]?,WEATHERCONDITION|FLIGHTPLANNING/DECISION|LOWPASS
+What is the first event associated with [AccidentNumber_NYC89FA093]?,"ALTITUDE_DEVIATION,UNCONTROLLED"
+What is the second event associated with [AccidentNumber_LAX03FA057]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the third event associated with [AccidentNumber_DEN04LA056]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What medical certification does [Pilot_NYC02LA128] have?,Class 3 Valid Medical--w/ waivers/lim.
+What is the airplane rating associated with [Pilot_CHI04LA052]?,Single-engineLand
+What airspace is associated with [AccidentNumber_CHI04FA203]?,ClassC
+What is the Flight Crew associated with [AccidentNumber_NYC98LA120]?,PILOT_IN_COMMAND
+What airspace is associated with [AccidentNumber_NYC03LA096]?,ClassG
+What does [Registration_N83W] have in terms of an emergency locator transmitter?,___Unknown___ELT
+What is the second event associated with [AccidentNumber_LAX84LA423]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Federal Aviation Regulation associated with [AccidentNumber_NYC02FA152]?,Part91GeneralAviation-Personal
+What are the conditions at the accident site associated with [AccidentNumber_ATL02FA058]?,Visual Conditions
+What is the aircraft issue that caused [AccidentNumber_MIA01LA088]?,___Unknown___AircraftIssue
+What is the runway surface type associated with [AccidentNumber_CHI04LA144]?,___Unknown___RunwaySurfaceType
+What passanger injury is associated with [AccidentNumber_ATL04CA108]?,1 None
+What is the first event associated with [AccidentNumber_ATL86LA237]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the total injury associated with [AccidentNumber_NYC02LA107]?,4 None
+What is the instrument flight rules approach associated with [AccidentNumber_ATL04CA108]?,___Unknown___InstrumentFlightRulesApproach
+What is the second event associated with [AccidentNumber_LAX05LA002]?,FORCED_LANDING
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX05CA129]?,Part91GeneralAviation-Personal
+What airworthiness certificate does [Registration_N48020] have?,Normal
+What airworthiness certificate does [Registration_N3310K] have?,Normal
+What is the aircraft issue that caused [AccidentNumber_FTW04LA226]?,___Unknown___AircraftIssue
+What is the engine model associated with [Registration_N2495C]?,O-235-L2C
+What is the first event associated with [AccidentNumber_ATL83FA081]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What environmental issue caused [AccidentNumber_MIA02LA122]?,___Unknown___EnvironmentalIssue
+What medical certification does [Pilot_SEA04LA178] have?,Class 3 Valid Medical--no waivers/lim.
+What environmental issue caused [AccidentNumber_NYC03LA096]?,___Unknown___EnvironmentalIssue
+What caused [AccidentNumber_NYC05CA047]?,AIRCRAFTCONTROL|LIGHTCONDITION
+What is the first event associated with [AccidentNumber_ANC88LA091]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the runway surface type associated with [AccidentNumber_CHI03FA239]?,Grass/turf
+What is the aircraft damage associated with [AccidentNumber_MIA02LA164]?,Substantial
+What flight plan was filed for [AccidentNumber_SEA02LA001]?,VFR
+What is the first event associated with [AccidentNumber_IAD04LA019]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the lowest cloud condition associated with [AccidentNumber_DEN01LA047]?,Scattered / 25000 ft agl
+What is the first event associated with [AccidentNumber_FTW95LA374]?,LOSS_OF_ENGINE_POWER
+What is the airport associated with [AccidentNumber_FTW04FA029]?,___Unknown___Airport
+What aircraft category does [Registration_N32039] belong to?,Airplane
+What engine is associated with [Registration_N421KS]?,2Reciprocating
+What is the first event associated with [AccidentNumber_CHI84LA002]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the first event associated with [AccidentNumber_SEA04LA093]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_OTHER
+What is the third event associated with [AccidentNumber_ANC99LA068]?,ROLL_OVER
+What is the first event associated with [AccidentNumber_LAX89FA030]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+In which country did [AccidentNumber_CHI03LA034] occur?,MN
+What is the Visual Flight Rules approach associated with [AccidentNumber_LAX03LA123]?,___Unknown___VisualFlightRulesApproach
+What is the first event associated with [AccidentNumber_MIA85LA001]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Visual Flight Rules approach associated with [AccidentNumber_ATL05CA092]?,___Unknown___VisualFlightRulesApproach
+What is the runway surface condition associated with [AccidentNumber_LAX05LA060]?,___Unknown___RunwaySurfaceCondition
+What does [Registration_N9765R] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the aircraft damage associated with [AccidentNumber_CHI05CA085]?,Substantial
+What is the airplane rating associated with [Pilot_MIA05FA020]?,Multi-engineLand;Single-engineLand
+What caused [AccidentNumber_SEA02FA023]?,MISCELLANEOUSBOLT/NUT/FASTENER/CLAMP/SPRING|FLUIDFUEL
+What is the second event associated with [AccidentNumber_ANC05LA021]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What are the conditions at the accident site associated with [AccidentNumber_NYC02LA004]?,Visual Conditions
+What is the first event associated with [AccidentNumber_ATL95LA047]?,OVERRUN
+What is the total injury associated with [AccidentNumber_NYC02LA002]?,3 Minor
+What is the first event associated with [AccidentNumber_LAX89LA031]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the airplane rating associated with [Pilot_DEN01LA062]?,Multi-engineLand;Single-engineLand
+What is the total injury associated with [AccidentNumber_DEN01LA062]?,4 None
+What is the condition of light associated with [AccidentNumber_NYC04LA025]?,Day
+What is the Federal Aviation Regulation associated with [AccidentNumber_CHI03LA001]?,Part91GeneralAviation-Business
+What engine is associated with [Registration_N516UA]?,2TurboFan
+What airspace is associated with [AccidentNumber_NYC02LA024]?,ClassG
+What is the second event associated with [AccidentNumber_DFW07LA080]?,FORCED_LANDING
+What passanger injury is associated with [AccidentNumber_ANC01LA099]?,5 None
+What caused [AccidentNumber_LAX01LA137]?,FLARE|COMPENSATIONFORWINDCONDITIONS|DIRECTIONALCONTROL
+What is the first event associated with [AccidentNumber_SEA00LA027]?,"IN_FLIGHT_COLLISION_WITH_OBJECT_-_WIRE,TRANSMISSION"
+What is the seat occupancy associated with [Pilot_LAX03LA103]?,Rear
+What is the airplane rating associated with [Pilot_CHI03LA240]?,Multi-engineLand;Single-engineLand
+What is the aircraft manufacturer associated with [Registration_N5099D]?,Cessna
+What airworthiness certificate does [Registration_N2234S] have?,Normal
+What is the restraint used associated with [Pilot_ATL03LA051]?,"Seatbelt, Shoulder harness"
+What is the third event associated with [AccidentNumber_CHI86LA095]?,NOSE_OVER
+What are the conditions at the accident site associated with [AccidentNumber_LAX01LA164]?,Visual Conditions
+What is the restraint used associated with [Pilot_LAX02LA121]?,"Seatbelt, Shoulder harness"
+What is the Federal Aviation Regulation associated with [AccidentNumber_ATL05FA048]?,Part91GeneralAviation-Personal
+What is the restraint used associated with [Pilot_CHI03FA238B]?,"Seatbelt, Shoulder harness"
+What is the engine manufacturer associated with [Registration_N185NR]?,Continental
+What is the Flight Crew associated with [AccidentNumber_FTW86MA001B]?,PILOT_OF_OTHER_AIRCRAFT|PILOT_IN_COMMAND
+What is the first event associated with [AccidentNumber_ATL04LA105]?,LOSS_OF_ENGINE_POWER(PARTIAL)_-_NONMECHANICAL
+What is the first event associated with [AccidentNumber_SEA97FA067]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What flight plan was filed for [AccidentNumber_ATL05CA068]?,VFR
+What is the runway surface type associated with [AccidentNumber_CHI03LA063]?,___Unknown___RunwaySurfaceType
+What is the Flight Crew associated with [AccidentNumber_MIA01LA054]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_CHI83FA347]?,PILOT_IN_COMMAND
+What is the aircraft issue that caused [AccidentNumber_LAX01LA231]?,___Unknown___AircraftIssue
+What environmental issue caused [AccidentNumber_LAX02LA221]?,___Unknown___EnvironmentalIssue
+What is the condition of light associated with [AccidentNumber_LAX02LA036]?,Night/Dark
+What caused [AccidentNumber_FTW04LA226]?,AIRSPEED|STALL/SPIN|LACKOFEXPERIENCE
+What environmental issue caused [AccidentNumber_NYC04CA022]?,___Unknown___EnvironmentalIssue
+What certificate does [Pilot_FTW02LA010] have?,AirlineTransport;Commercial
+What is the landing gear associated with [Registration_N8504G]?,Tricycle
+What is the runway surface type associated with [AccidentNumber_ANC01LA136]?,Asphalt
+What environmental issue caused [AccidentNumber_MIA02LA057]?,___Unknown___EnvironmentalIssue
+What is the second event associated with [AccidentNumber_ATL91LA089]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the second event associated with [AccidentNumber_LAX01LA137]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What passanger injury is associated with [AccidentNumber_MIA05CA121]?,1 None
+What is the aircraft manufacturer associated with [Registration_N815M]?,Cessna
+What is the first event associated with [AccidentNumber_ANC08FA025]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_SNOW
+What engine is associated with [Registration_N81189]?,1Reciprocating
+What is the Flight Crew associated with [AccidentNumber_LAX85FA304]?,PILOT_IN_COMMAND
+What is the first event associated with [AccidentNumber_DFW05LA027]?,LOSS_OF_ENGINE_POWER
+What caused [AccidentNumber_BFO87LA023]?,DIRECTIONALCONTROL|SUPERVISION|TERRAINCONDITION
+What airworthiness certificate does [Registration_N457PH] have?,Normal
+What is the Federal Aviation Regulation associated with [AccidentNumber_FTW02LA170]?,Part91GeneralAviation-Instructional
+What is the Flight Crew associated with [AccidentNumber_CHI95FA255]?,PILOT_IN_COMMAND
+What is the third event associated with [AccidentNumber_SEA90FA039]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the Flight Crew associated with [AccidentNumber_LAX87LA132]?,PILOT_IN_COMMAND
+What passanger injury is associated with [AccidentNumber_FTW03LA069]?,1 Minor
+What environmental issue caused [AccidentNumber_ANC03LA025]?,___Unknown___EnvironmentalIssue
+What is the third event associated with [AccidentNumber_CHI97LA193]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the seat occupancy associated with [Pilot_MIA02FA079]?,Left
+What is the second event associated with [AccidentNumber_DEN06CA031]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What does [Registration_N498CW] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What does [Registration_N502CL] have in terms of an emergency locator transmitter?,Not installed
+What is the first event associated with [AccidentNumber_FTW85LA109]?,LOSS_OF_ENGINE_POWER
+What is the landing gear associated with [Registration_N59180]?,Tailwheel
+What certificate does [Pilot_FTW01FA111] have?,Commercial;Private
+What is the Federal Aviation Regulation associated with [AccidentNumber_CHI05CA209]?,Part91GeneralAviation-Personal
+What is the runway surface type associated with [AccidentNumber_IAD01FA089]?,Asphalt
+What is the restraint used associated with [Pilot_CHI03LA240]?,Seatbelt
+What is the condition of light associated with [AccidentNumber_LAX02LA076]?,Day
+What airworthiness certificate does [Registration_N94LW] have?,Experimental
+What is the Flight Crew associated with [AccidentNumber_LAX85FA131]?,PILOT_IN_COMMAND
+What is the Visual Flight Rules approach associated with [AccidentNumber_CHI05LA086]?,FullStop
+What is the first event associated with [AccidentNumber_ATL90DKG01]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+In which country did [AccidentNumber_ATL02FA162] occur?,FL
+What is the seat occupancy associated with [Pilot_ATL04LA074]?,___Unknown___SeatOccupied
+In which country did [AccidentNumber_LAX03LA103] occur?,AZ
+What is the second event associated with [AccidentNumber_ATL89FA188]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the first event associated with [AccidentNumber_NYC05CA079]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the first event associated with [AccidentNumber_FTW04LA199]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What certificate does [Pilot_ANC02LA112] have?,Private
+What is the total injury associated with [AccidentNumber_LAX02LA100]?,"1 Serious, 1 Minor"
+What is the third event associated with [AccidentNumber_DFW05CA177]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the engine manufacturer associated with [Registration_N5198D]?,Continental
+What is the airplane rating associated with [Pilot_ATL02FA162]?,Single-engineLand
+What is the airplane rating associated with [Pilot_ANC03LA029]?,Multi-engineLand;Single-engineLand
+What does [Registration_N731KG] have in terms of an emergency locator transmitter?,Not installed
+What is the airplane rating associated with [Pilot_ATL03LA039]?,Single-engineLand
+What is the runway surface condition associated with [AccidentNumber_FTW02LA137]?,___Unknown___RunwaySurfaceCondition
+What is the first event associated with [AccidentNumber_MKC86FPG02]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the aircraft manufacturer associated with [Registration_N498CW]?,Beech
+What is the third event associated with [AccidentNumber_ATL83FA095]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the second event associated with [AccidentNumber_NYC91LA124]?,"DRAGGED_WING,ROTOR,POD,FLOAT_OR_TAIL/SKID"
+What is the runway surface type associated with [AccidentNumber_NYC05CA068]?,Asphalt
+What flight plan was filed for [AccidentNumber_CHI01LA303]?,VFR
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX04LA119]?,Part91GeneralAviation-Personal
+What is the first event associated with [AccidentNumber_FTW97FA208A]?,MIDAIR_COLLISION
+What caused [AccidentNumber_LAX83LA321]?,SUPERVISION|DIVERTEDATTENTION|EMERGENCYPROCEDURE|CHECKLIST
+What was the result of the last inspection for [Registration_N3279Z]?,Annual
+What is the first event associated with [AccidentNumber_ATL02LA148]?,OVERRUN
+What is the condition of light associated with [AccidentNumber_CHI04FA133]?,Day
+What is the aircraft manufacturer associated with [Registration_N499BA]?,Cessna
+What is the seat occupancy associated with [Pilot_CHI02LA045]?,Left
+What caused [AccidentNumber_NYC03FA001]?,AIRSPEEDVMC|AIRCRAFTPREFLIGHT|FLUIDFUEL|MAINTENANCEANNUALINSPECTION
+What [instrument rating] does [Pilot_MIA02LA077] have?,Airplane
+What caused [AccidentNumber_CHI86FEC02]?,FLUIDFUEL|FUELCONSUMPTIONCALCULATIONS|PREFLIGHTPLANNING/PREPARATION|FUELSUPPLY
+What is the second event associated with [AccidentNumber_FTW94FA059]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the Flight Crew associated with [AccidentNumber_NYC89FA097]?,PILOT_IN_COMMAND
+What is the aircraft issue that caused [AccidentNumber_NYC02LA003]?,___Unknown___AircraftIssue
+What is the engine model associated with [Registration_N5593E]?,O-320-H2AD
+What is the condition of light associated with [AccidentNumber_SEA02TA022]?,Day
+What environmental issue caused [AccidentNumber_FTW02LA170]?,___Unknown___EnvironmentalIssue
+What environmental issue caused [AccidentNumber_MIA03CA086]?,___Unknown___EnvironmentalIssue
+What is the landing gear associated with [Registration_N95223]?,Tailwheel
+What is the Flight Crew associated with [AccidentNumber_ATL86LA238]?,PILOT_IN_COMMAND
+What is the seat occupancy associated with [Pilot_DEN05LA055]?,Right
+What environmental issue caused [AccidentNumber_MIA05CA068]?,___Unknown___EnvironmentalIssue
+What is the second event associated with [AccidentNumber_FTW96FA058]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the engine manufacturer associated with [Registration_N2528M]?,Lycoming
+What is the crew injury associated with [AccidentNumber_LAX05CA128]?,1 None
+What caused [AccidentNumber_LAX02LA035]?,FUELSYSTEMCARBURETOR
+What environmental issue caused [AccidentNumber_NYC02LA024]?,___Unknown___EnvironmentalIssue
+What caused [AccidentNumber_NYC96LA069]?,FLARE|DIRECTIONALCONTROL|WEATHERCONDITION
+What engine is associated with [Registration_N4386W]?,1Reciprocating
+What is the fourth event associated with [AccidentNumber_ATL06CA001]?,GEAR_COLLAPSED
+What is the Flight Crew associated with [AccidentNumber_FTW86LQG13]?,PILOT_IN_COMMAND(CFI)|DUAL_STUDENT
+What caused [AccidentNumber_MKC87LA100]?,FUELSYSTEMLINE|OBJECT|MAINTENANCEINSPECTION
+What is the total injury associated with [AccidentNumber_FTW03FA027]?,3 Fatal
+What is the third event associated with [AccidentNumber_DEN07LA044]?,FORCED_LANDING
+What is the total injury associated with [AccidentNumber_CHI03LA048]?,1 Fatal
+What is the runway surface type associated with [AccidentNumber_ANC03FA106]?,___Unknown___RunwaySurfaceType
+What is the Federal Aviation Regulation associated with [AccidentNumber_NYC02LA002]?,Part91GeneralAviation-Instructional
+What does [Registration_N14449] have in terms of an emergency locator transmitter?,"Installed, activated, aided in locating accident"
+What is the second event associated with [AccidentNumber_MIA03CA086]?,NOSE_OVER
+What is the aircraft manufacturer associated with [Registration_N9864F]?,Cessna
+What is the third event associated with [AccidentNumber_MIA03LA138]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What certificate does [Pilot_SEA04LA048] have?,Commercial
+What certificate does [Pilot_FTW02LA137] have?,Commercial
+What is the aircraft issue that caused [AccidentNumber_ATL03FA052]?,___Unknown___AircraftIssue
+What is the second event associated with [AccidentNumber_ATL99LA037]?,FORCED_LANDING
+What is the aircraft manufacturer associated with [Registration_N64580]?,Bell
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX02LA036]?,Part91GeneralAviation-Personal
+What is the Flight Crew associated with [AccidentNumber_FTW96LA285]?,PILOT_IN_COMMAND
+What is the aircraft issue that caused [AccidentNumber_ANC04LA050]?,___Unknown___AircraftIssue
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX02LA121]?,Part91GeneralAviation-Instructional
+What is the Federal Aviation Regulation associated with [AccidentNumber_FTW02LA137]?,Part91GeneralAviation-Personal
+What is the first event associated with [AccidentNumber_ATL96LA031]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the restraint used associated with [Pilot_DEN01LA047]?,Seatbelt
+What certificate does [Pilot_IAD02LA080] have?,Commercial
+What is the engine manufacturer associated with [Registration_N140V]?,Rotax
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX05LA221]?,Part91GeneralAviation-Instructional
+What airspace is associated with [AccidentNumber_ATL02LA148]?,ClassG
+What is the condition of light associated with [AccidentNumber_LAX01LA231]?,Day
+What is the lowest ceiling associated with [AccidentNumber_MIA01LA054]?,Broken / 25000 ft agl
+What is the total injury associated with [AccidentNumber_ANC02LA088]?,2 None
+What is the third event associated with [AccidentNumber_DEN00LA069]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the aircraft manufacturer associated with [Registration_N220CK]?,Robinson
+What certificate does [Pilot_SEA04LA093] have?,Commercial
+What is the Flight Crew associated with [AccidentNumber_SEA90LA090]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_NYC06LA167]?,PILOT_IN_COMMAND
+What is the second event associated with [AccidentNumber_ANC83LA065]?,FORCED_LANDING
+What is the aircraft manufacturer associated with [Registration_N521JD]?,Cessna
+What caused [AccidentNumber_SEA83LA016]?,GOAROUND|GROUNDLOOP/SWERVE|RECOVERYFROMBOUNCEDLANDING|OBJECT|DIRECTIONALCONTROL
+What is the seat occupancy associated with [Pilot_DFW05LA027]?,Left
+What is the airframe total time associated with [Registration_N310WH]?,___Unknown___AirframeTotalTime
+What is the runway surface type associated with [AccidentNumber_CHI04CA219]?,___Unknown___RunwaySurfaceType
+What is the fourth event associated with [AccidentNumber_FTW90LA049]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the Flight Crew associated with [AccidentNumber_ANC97FA002]?,PILOT_IN_COMMAND
+What is the fourth event associated with [AccidentNumber_CHI07LA126]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What caused [AccidentNumber_DEN02LA049]?,UNSUITABLETERRAINORTAKEOFF/LANDING/TAXIAREA|WEATHERCONDITION|TERRAINCONDITION
+What is the aircraft manufacturer associated with [Registration_N1767R]?,Cessna
+What was the result of the last inspection for [Registration_N2616B]?,100 Hour
+What does [Registration_N2652W] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What certificate does [Pilot_CHI03LA240] have?,FlightInstructor;Commercial
+What is the seat occupancy associated with [Pilot_CHI05CA060]?,Left
+What is the engine manufacturer associated with [Registration_N4262D]?,Lycoming
+What airworthiness certificate does [Registration_N739WE] have?,Normal
+What environmental issue caused [AccidentNumber_CHI04LA026]?,___Unknown___EnvironmentalIssue
+What is the lowest cloud condition associated with [AccidentNumber_FTW03LA143]?,Clear
+What is the first event associated with [AccidentNumber_DEN85LA146]?,"IN_FLIGHT_COLLISION_WITH_OBJECT_-_WIRE,STATIC"
+What medical certification does [Pilot_NYC02LA001] have?,Class 3 Valid Medical--w/ waivers/lim.
+What certificate does [Pilot_NYC02LA107] have?,Private
+What is the airport associated with [AccidentNumber_DEN01LA154]?,___Unknown___Airport
+What caused [AccidentNumber_FTW84LA181]?,WEATHERCONDITION|COMPENSATIONFORWINDCONDITIONS|DIRECTIONALCONTROL
+What is the second event associated with [AccidentNumber_CHI82FA144]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_RESIDENCE
+What is the landing gear associated with [Registration_N739WE]?,Tricycle
+What environmental issue caused [AccidentNumber_CHI04CA113]?,___Unknown___EnvironmentalIssue
+What is the aircraft issue that caused [AccidentNumber_LAX05LA221]?,___Unknown___AircraftIssue
+What is the second event associated with [AccidentNumber_LAX03LA081]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the first event associated with [AccidentNumber_ANC05LA133]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the landing gear associated with [Registration_N88TN]?,Retractable-Tricycle
+What is the Flight Crew associated with [AccidentNumber_LAX87LA255]?,PILOT_IN_COMMAND
+In which country did [AccidentNumber_NYC04LA041] occur?,NY
+In which country did [AccidentNumber_NYC02LA046] occur?,MA
+What is the Visual Flight Rules approach associated with [AccidentNumber_CHI04LA001]?,ForcedLanding
+What is the Flight Crew associated with [AccidentNumber_ATL01LA101]?,PILOT_IN_COMMAND
+What is the airframe total time associated with [Registration_N21213]?,___Unknown___AirframeTotalTime
+What is the second event associated with [AccidentNumber_DEN02LA013]?,FORCED_LANDING
+What medical certification does [Pilot_FTW01FA111] have?,Class 3 Valid Medical--w/ waivers/lim.
+What is the first event associated with [AccidentNumber_LAX00LA284]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX01LA299]?,Part91GeneralAviation-Personal
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX03TA043]?,Part91GeneralAviation-PublicAircraft
+What medical certification does [Pilot_CHI03LA187] have?,Class 1 Valid Medical--w/ waivers/lim.
+What caused [AccidentNumber_MKC86LA044]?,WEATHERCONDITION|FLIGHTPLANNING/DECISION|WINDINFORMATION|DIRECTIONALCONTROL|TERRAINCONDITION
+What passanger injury is associated with [AccidentNumber_NYC05CA068]?,2 None
+What is the first event associated with [AccidentNumber_FTW03LA002]?,HARD_LANDING
+What is the Flight Crew associated with [AccidentNumber_NYC04FA136]?,PILOT_IN_COMMAND
+What are the conditions at the accident site associated with [AccidentNumber_ANC03LA025]?,Visual Conditions
+What aircraft category does [Registration_N66113] belong to?,Airplane
+What does [Registration_N49SJ] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the third event associated with [AccidentNumber_DEN91LA094]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+In which country did [AccidentNumber_ANC01LA099] occur?,AK
+What is the aircraft manufacturer associated with [Registration_N4458S]?,Beech
+What is the second event associated with [AccidentNumber_FTW86LQG07]?,HARD_LANDING
+What certificate does [Pilot_NYC02LA046] have?,Student
+What is the runway surface type associated with [AccidentNumber_CHI04LA039]?,Asphalt
+What engine is associated with [Registration_N7236L]?,1Reciprocating
+What is the engine model associated with [Registration_N8071Z]?,O-360
+What is the third event associated with [AccidentNumber_SEA02TA022]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What airspace is associated with [AccidentNumber_MIA03LA090]?,ClassG
+What is the seat occupancy associated with [Pilot_MIA02LA076]?,Left
+What caused [AccidentNumber_ANC07CA072]?,AIRCRAFTPREFLIGHT|FLUIDFUEL
+What is the first event associated with [AccidentNumber_CHI83FA350]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What does [Registration_N9226L] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the Flight Crew associated with [AccidentNumber_ATL82FA224]?,PILOT_IN_COMMAND
+What is the landing gear associated with [Registration_N2495C]?,Tricycle
+What environmental issue caused [AccidentNumber_DEN04FA027A]?,___Unknown___EnvironmentalIssue
+What is the total injury associated with [AccidentNumber_SEA02LA010]?,1 None
+What certificate does [Pilot_NYC05CA090] have?,Student
+What does [Registration_N2495C] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What [instrument rating] does [Pilot_CHI04LA144] have?,Airplane
+What is the Flight Crew associated with [AccidentNumber_CHI01LA263]?,PILOT_IN_COMMAND
+What is the third event associated with [AccidentNumber_CHI88DEP08]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What caused [AccidentNumber_FTW94FA090]?,AIRCRAFTCONTROL|LIGHTCONDITION|SPATIALDISORIENTATION
+What is the first event associated with [AccidentNumber_FTW89DPA01]?,MISCELLANEOUS/OTHER
+What is the aircraft damage associated with [AccidentNumber_MIA03CA103]?,Substantial
+What [instrument rating] does [Pilot_MIA02LA165] have?,Airplane
+What is the clearance associated with [AccidentNumber_ATL02LA149]?,IFR
+What is the airport associated with [AccidentNumber_LAX03TA043]?,___Unknown___Airport
+What airspace is associated with [AccidentNumber_CHI05CA060]?,ClassG
+What is the first event associated with [AccidentNumber_CHI94LA030]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the Flight Crew associated with [AccidentNumber_ANC00LA053]?,PILOT_IN_COMMAND
+What is the Visual Flight Rules approach associated with [AccidentNumber_ATL05FA032]?,___Unknown___VisualFlightRulesApproach
+What is the third event associated with [AccidentNumber_CHI05CA040]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_OTHER
+What caused [AccidentNumber_CHI92LA222]?,DESCENT|LACKOFTOTALEXPERIENCE|ENGINEASSEMBLYCRANKSHAFT
+What is the Flight Crew associated with [AccidentNumber_IAD97FA038]?,PILOT_IN_COMMAND
+What is the crew injury associated with [AccidentNumber_CHI05CA210]?,1 None
+What is the aircraft issue that caused [AccidentNumber_CHI01LA060]?,___Unknown___AircraftIssue
+What is the total injury associated with [AccidentNumber_FTW03LA002]?,1 None
+What passanger injury is associated with [AccidentNumber_LAX01LA231]?,3 None
+What engine is associated with [Registration_N56715]?,1Reciprocating
+What is the total injury associated with [AccidentNumber_ANC02LA112]?,2 None
+What is the second event associated with [AccidentNumber_ATL87LA103]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-___UNKOWN__OBJECT
+What environmental issue caused [AccidentNumber_LAX04CA309]?,___Unknown___EnvironmentalIssue
+What is the restraint used associated with [Pilot_CHI04LA052]?,"Seatbelt, Shoulder harness"
+What is the crew injury associated with [AccidentNumber_ANC05LA093]?,1 None
+What is the first event associated with [AccidentNumber_LAX05LA154]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the airport associated with [AccidentNumber_SEA04FA032]?,___Unknown___Airport
+What medical certification does [Pilot_NYC01LA198] have?,Class 3 Valid Medical--w/ waivers/lim.
+What does [Registration_N17438] have in terms of an emergency locator transmitter?,___Unknown___ELT
+What airworthiness certificate does [Registration_N36TL] have?,Normal
+What is the first event associated with [AccidentNumber_ATL86LA067]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What was the result of the last inspection for [Registration_N804JH]?,Annual
+What airworthiness certificate does [Registration_N8917H] have?,Restricted
+What is the runway surface type associated with [AccidentNumber_ANC02LA110]?,___Unknown___RunwaySurfaceType
+What is the first event associated with [AccidentNumber_DEN08CA023]?,UNDERSHOOT
+What does [Registration_N34168] have in terms of an emergency locator transmitter?,"Installed, activated, did not aid in locating accident"
+What is the seat occupancy associated with [Pilot_MIA02LA164]?,Front
+What aircraft category does [Registration_N2842D] belong to?,Airplane
+What airspace is associated with [AccidentNumber_LAX04LA084]?,ClassC
+What airspace is associated with [AccidentNumber_ANC03FA106]?,ClassG
+What [instrument rating] does [Pilot_ATL05FA032] have?,Airplane
+What is the instrument flight rules approach associated with [AccidentNumber_LAX01LA163]?,___Unknown___InstrumentFlightRulesApproach
+What is the aircraft manufacturer associated with [Registration_N5593E]?,Cessna
+What instructor rating does [Pilot_DEN05LA019] have?,Airplane Multi-engine; Airplane Single-engine
+What is the third event associated with [AccidentNumber_LAX05LA155]?,HARD_LANDING
+What is the aircraft manufacturer associated with [Registration_N4759R]?,Bell
+What is the aircraft issue that caused [AccidentNumber_ATL05CA056]?,___Unknown___AircraftIssue
+What is the first event associated with [AccidentNumber_CHI01LA078]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What caused [AccidentNumber_FTW92LA065]?,FUELSYSTEMCARBURETOR|CARBURETORHEAT|WEATHERCONDITION|TERRAINCONDITION
+What was the result of the last inspection for [Registration_N2233D]?,100 Hour
+What certificate does [Pilot_LAX05LA025] have?,FlightInstructor;Commercial
+What passanger injury is associated with [AccidentNumber_ATL02FA162]?,1 Fatal
+What is the crew injury associated with [AccidentNumber_ATL01LA101]?,1 None
+What is the lowest cloud condition associated with [AccidentNumber_LAX02LA245]?,Clear
+What medical certification does [Pilot_NYC02LA091] have?,Class 3 Valid Medical--w/ waivers/lim.
+What does [Registration_N88BM] have in terms of an emergency locator transmitter?,___Unknown___ELT
+What is the third event associated with [AccidentNumber_FTW83FA031]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What instructor rating does [Pilot_NYC04LA099] have?,Airplane Multi-engine; Airplane Single-engine; Instrument Airplane
+What airworthiness certificate does [Registration_N30SE] have?,Normal
+What is the total injury associated with [AccidentNumber_CHI03LA326]?,1 None
+What caused [AccidentNumber_CHI01LA255]?,UNSUITABLETERRAINORTAKEOFF/LANDING/TAXIAREA|FUELSYSTEMLINE|MAINTENANCEINSPECTION
+What airspace is associated with [AccidentNumber_CHI03LA145]?,ClassG
+What caused [AccidentNumber_NYC99LA191]?,OBJECT|DIRECTIONALCONTROL|WEATHERCONDITION
+What is the Flight Crew associated with [AccidentNumber_CHI03FA239]?,PILOT_IN_COMMAND
+What is the Visual Flight Rules approach associated with [AccidentNumber_CHI03LA194]?,FullStop
+What passanger injury is associated with [AccidentNumber_SEA01TA083]?,1 None
+What is the aircraft issue that caused [AccidentNumber_ATL05CA123]?,___Unknown___AircraftIssue
+What is the first event associated with [AccidentNumber_LAX03LA044]?,LOSS_OF_ENGINE_POWER(PARTIAL)_-_NONMECHANICAL
+What is the second event associated with [AccidentNumber_CHI91LA279]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-___UNKOWN__OBJECT
+What is the third event associated with [AccidentNumber_CHI00LA286]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What environmental issue caused [AccidentNumber_SEA02LA010]?,___Unknown___EnvironmentalIssue
+What is the second event associated with [AccidentNumber_ATL05CA092]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the first event associated with [AccidentNumber_LAX95LA233]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What airspace is associated with [AccidentNumber_LAX05CA153]?,AirportInformation
+What is the condition of light associated with [AccidentNumber_LAX03LA018]?,Dusk
+What is the condition of light associated with [AccidentNumber_LAX04LA119]?,Day
+What is the Federal Aviation Regulation associated with [AccidentNumber_NYC03LA003]?,Part91GeneralAviation-Personal
+What are the conditions at the accident site associated with [AccidentNumber_LAX05LA253]?,Visual Conditions
+What is the seat occupancy associated with [Pilot_MIA05LA066]?,Left
+What is the lowest cloud condition associated with [AccidentNumber_CHI04LA052]?,___Unknown___LowestCloudCondition
+What is the Federal Aviation Regulation associated with [AccidentNumber_ATL05CA019]?,Part91GeneralAviation-Personal
+What certificate does [Pilot_SEA02LA117] have?,Commercial
+What is the Federal Aviation Regulation associated with [AccidentNumber_CHI04LA124]?,Part91GeneralAviation-Instructional
+What caused [AccidentNumber_SEA02TA022]?,REASONFOROCCURRENCEUNDETERMINED
+What is the Visual Flight Rules approach associated with [AccidentNumber_SEA01LA164]?,___Unknown___VisualFlightRulesApproach
+What does [Registration_N9623C] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the aircraft damage associated with [AccidentNumber_MIA04LA050]?,Substantial
+What certificate does [Pilot_LAX04CA310] have?,Student
+What is the condition of light associated with [AccidentNumber_ANC01LA141]?,Day
+What is the second event associated with [AccidentNumber_LAX97LA228]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What aircraft category does [Registration_N7504W] belong to?,Airplane
+What aircraft model is associated with [Registration_N2842D]?,PA-28-181
+What is the total injury associated with [AccidentNumber_LAX02LA036]?,2 Minor
+What is the Flight Crew associated with [AccidentNumber_CHI92LA160]?,PILOT_IN_COMMAND
+What is the clearance associated with [AccidentNumber_LAX05FA193]?,IFR
+What certificate does [Pilot_ATL04LA114] have?,Private
+What is the Flight Crew associated with [AccidentNumber_MIA92LA180]?,PILOT_IN_COMMAND
+What engine is associated with [Registration_N3056Q]?,1Reciprocating
+What is the third event associated with [AccidentNumber_CHI95FA050]?,FORCED_LANDING
+What is the seat occupancy associated with [Pilot_CHI05CA085]?,___Unknown___SeatOccupied
+What are the conditions at the accident site associated with [AccidentNumber_LAX03LA103]?,Visual Conditions
+What caused [AccidentNumber_SEA07LA118]?,WEATHERCONDITION|AIRCRAFTCONTROL
+What caused [AccidentNumber_MKC90LA021]?,LIGHTCONDITION|FUELSUPPLY|PLANNING/DECISION|FLUIDFUEL
+What was the result of the last inspection for [Registration_N56715]?,Annual
+What is the runway surface type associated with [AccidentNumber_LAX02LA035]?,Asphalt
+What is the first event associated with [AccidentNumber_LAX90FA235]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the fourth event associated with [AccidentNumber_LAX86LA162]?,NOSE_OVER
+What is the Flight Crew associated with [AccidentNumber_ANC86FA118B]?,PILOT_OF_OTHER_AIRCRAFT
+What [instrument rating] does [Pilot_NYC04LA042] have?,Airplane
+What is the second event associated with [AccidentNumber_BFO96LA030]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What was the result of the last inspection for [Registration_N1278V]?,Annual
+What is the first event associated with [AccidentNumber_NYC83FA016]?,OVERRUN
+What is the Visual Flight Rules approach associated with [AccidentNumber_FTW04FA052]?,___Unknown___VisualFlightRulesApproach
+What is the fourth event associated with [AccidentNumber_ATL84LA002]?,NOSE_OVER
+What is the crew injury associated with [AccidentNumber_SEA04LA097]?,2 Serious
+What is the first event associated with [AccidentNumber_FTW82FRA15]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What caused [AccidentNumber_ATL03LA091]?,AIRSPEED
+What is the fourth event associated with [AccidentNumber_NYC85LA168]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the airplane rating associated with [Pilot_CHI01LA057]?,Single-engineLand
+What engine is associated with [Registration_N559LJ]?,1Reciprocating
+What is the total injury associated with [AccidentNumber_NYC05CA090]?,1 None
+What caused [AccidentNumber_DEN05FA002]?,STALL/SPIN|REMEDIALACTION|AIRCRAFTCONTROL|SPIRAL
+What is the crew injury associated with [AccidentNumber_MIA02LA058]?,1 Fatal
+What is the Flight Crew associated with [AccidentNumber_ATL87LA156]?,PILOT_IN_COMMAND
+What airworthiness certificate does [Registration_N9769L] have?,Normal
+What does [Registration_N4606X] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What does [Registration_N4123K] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the second event associated with [AccidentNumber_CHI94LA216]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What medical certification does [Pilot_LAX02LA035] have?,Class 3 Valid Medical--w/ waivers/lim.
+What is the second event associated with [AccidentNumber_ANC92LA056]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the restraint used associated with [Pilot_NYC05FA054]?,"Seatbelt, Shoulder harness"
+What is the third event associated with [AccidentNumber_CHI95LA145]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the fourth event associated with [AccidentNumber_MIA02FA162]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What caused [AccidentNumber_ATL84LA003]?,LANDINGGEARTIRE|OBJECT|BRAKESNORMAL
+What is the third event associated with [AccidentNumber_ANC02FA042]?,FORCED_LANDING
+What environmental issue caused [AccidentNumber_CHI03LA326]?,___Unknown___EnvironmentalIssue
+What is the condition of light associated with [AccidentNumber_SEA04LA178]?,Day
+What aircraft category does [Registration_N1068S] belong to?,Airplane
+What is the Flight Crew associated with [AccidentNumber_CHI84LA276]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_CHI07CA130]?,PILOT_IN_COMMAND
+In which country did [AccidentNumber_SEA01LA110] occur?,ID
+What is the condition of light associated with [AccidentNumber_DCA05MA031]?,Dawn
+What engine is associated with [Registration_N787KL]?,2TurboProp
+What is the seat occupancy associated with [Pilot_IAD01LA035]?,Left
+What caused [AccidentNumber_CHI86FEC06]?,AIRSPEED|STALL/SPIN|LACKOFTOTALEXPERIENCEINTYPEOFAIRCRAFT
+What medical certification does [Pilot_DEN03LA062] have?,Class 2 Valid Medical--w/ waivers/lim.
+What is the Visual Flight Rules approach associated with [AccidentNumber_LAX01LA089]?,___Unknown___VisualFlightRulesApproach
+In which country did [AccidentNumber_SEA02FA023] occur?,ID
+What is the condition of light associated with [AccidentNumber_CHI01FA111]?,Day
+What is the aircraft issue that caused [AccidentNumber_LAX03FA147]?,___Unknown___AircraftIssue
+What is the lowest cloud condition associated with [AccidentNumber_ATL03FA115]?,___Unknown___LowestCloudCondition
+What is the runway surface condition associated with [AccidentNumber_FTW02LA136]?,Dry
+What airworthiness certificate does [Registration_N8240P] have?,Normal;Utility
+What is the engine manufacturer associated with [Registration_N1133S]?,Continental
+What caused [AccidentNumber_CHI97LA246]?,WEATHERCONDITION|RECOVERYFROMBOUNCEDLANDING|FLARE|COMPENSATIONFORWINDCONDITIONS
+What engine is associated with [Registration_N7445E]?,1Reciprocating
+What medical certification does [Pilot_LAX04CA175] have?,Class 2
+What is the airplane rating associated with [Pilot_FTW02FA087]?,Multi-engineLand;Single-engineLand
+What passanger injury is associated with [AccidentNumber_MIA03LA139]?,1 Serious
+What is the second event associated with [AccidentNumber_ANC06CA083]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What caused [AccidentNumber_LAX85LA161]?,TERRAINCONDITION|GROUNDLOOP/SWERVE|LACKOFTOTALEXPERIENCEINTYPEOFAIRCRAFT|PROPERALIGNMENT
+What is the first event associated with [AccidentNumber_DEN88LA197]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What engine is associated with [Registration_N37731]?,1Reciprocating
+What is the Flight Crew associated with [AccidentNumber_FTW95LA061]?,PILOT_IN_COMMAND
+What engine is associated with [Registration_N14843]?,1Reciprocating
+What caused [AccidentNumber_ANC01LA097]?,LANDINGGEARNORMALBRAKESYSTEM
+What does [Registration_N37731] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What caused [AccidentNumber_LAX96LA002]?,FUELCONSUMPTIONCALCULATIONS|PREFLIGHTPLANNING/PREPARATION|SUPERVISION|FLUIDFUEL
+What are the conditions at the accident site associated with [AccidentNumber_FTW03LA143]?,Visual Conditions
+What is the crew injury associated with [AccidentNumber_IAD01LA035]?,1 None
+What is the Federal Aviation Regulation associated with [AccidentNumber_DEN03LA062]?,Part91GeneralAviation-Business
+What is the second event associated with [AccidentNumber_DEN86LA182]?,FORCED_LANDING
+What aircraft category does [Registration_N3279Z] belong to?,Airplane
+What is the runway surface condition associated with [AccidentNumber_LAX02LA146]?,___Unknown___RunwaySurfaceCondition
+What environmental issue caused [AccidentNumber_ANC05CA040]?,___Unknown___EnvironmentalIssue
+What is the third event associated with [AccidentNumber_DEN83LA206]?,NOSE_OVER
+What certificate does [Pilot_DFW05CA079] have?,Commercial
+What is the runway surface condition associated with [AccidentNumber_LAX03TA043]?,___Unknown___RunwaySurfaceCondition
+What is the aircraft issue that caused [AccidentNumber_ATL02FA008]?,___Unknown___AircraftIssue
+What is the aircraft damage associated with [AccidentNumber_FTW04FA052]?,Destroyed
+What is the aircraft issue that caused [AccidentNumber_LAX03LA081]?,___Unknown___AircraftIssue
+What are the conditions at the accident site associated with [AccidentNumber_LAX02LA146]?,Visual Conditions
+What is the crew injury associated with [AccidentNumber_FTW04FA052]?,1 Fatal
+What is the Flight Crew associated with [AccidentNumber_ATL90LA068]?,PILOT_IN_COMMAND
+What caused [AccidentNumber_ANC92LA153]?,ALTITUDE|STALL/MUSH|LOWPASS
+What is the first event associated with [AccidentNumber_MIA89MA023]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_ICING_CONDITIONS
+What environmental issue caused [AccidentNumber_ANC05FA039]?,___Unknown___EnvironmentalIssue
+What certificate does [Pilot_ANC05LA021] have?,FlightInstructor;Commercial
+What are the conditions at the accident site associated with [AccidentNumber_LAX02LA037]?,Visual Conditions
+What is the airplane rating associated with [Pilot_ANC04LA034]?,Single-engineLand
+What is the clearance associated with [AccidentNumber_NYC05CA068]?,IFR
+What is the first event associated with [AccidentNumber_CHI86FA192]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the second event associated with [AccidentNumber_LAX95LA177]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+What is the first event associated with [AccidentNumber_CHI91LA242]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the condition of light associated with [AccidentNumber_CHI04CA132]?,Day
+What is the aircraft damage associated with [AccidentNumber_SEA05CA035]?,Substantial
+What is the third event associated with [AccidentNumber_CHI88DEP01]?,NOSE_OVER
+What is the Flight Crew associated with [AccidentNumber_ANC98LA138]?,PILOT_IN_COMMAND
+What is the first event associated with [AccidentNumber_CHI91DCA01]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What caused [AccidentNumber_DEN89FA001]?,FLIGHTPLANNING/DECISION|STALL|PROPERALTITUDE|AIRSPEED|LACKOFTOTALEXPERIENCE|WEATHERCONDITION|TERRAINCONDITION
+What airworthiness certificate does [Registration_N1007U] have?,Normal
+What passanger injury is associated with [AccidentNumber_ANC02LA019]?,4 None
+What is the third event associated with [AccidentNumber_LAX95LA070]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_LAX07TA051]?,PILOT_IN_COMMAND
+What is the landing gear associated with [Registration_N787KL]?,Retractable-Tricycle
+What is the seat occupancy associated with [Pilot_ANC02LA089]?,Left
+What is the aircraft issue that caused [AccidentNumber_CHI05LA173]?,___Unknown___AircraftIssue
+What medical certification does [Pilot_LAX01LA089] have?,Class 3 Valid Medical--no waivers/lim.
+What is the first event associated with [AccidentNumber_DFW05CA174]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What caused [AccidentNumber_CHI94FA258]?,STALL|COMPENSATIONFORWINDCONDITIONS|WEATHERCONDITION
+What is the first event associated with [AccidentNumber_CHI05LA067]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What is the runway surface condition associated with [AccidentNumber_DEN04FA043]?,___Unknown___RunwaySurfaceCondition
+What is the first event associated with [AccidentNumber_ANC83FA042]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the total injury associated with [AccidentNumber_LAX04LA119]?,1 None
+What is the runway surface type associated with [AccidentNumber_SEA04LA178]?,___Unknown___RunwaySurfaceType
+What does [Registration_N7272D] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the Flight Crew associated with [AccidentNumber_DEN88LA046]?,PILOT_IN_COMMAND
+What is the first event associated with [AccidentNumber_DEN03LA148]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the runway surface type associated with [AccidentNumber_NYC03LA060]?,Asphalt
+What aircraft category does [Registration_N804JH] belong to?,Airplane
+What is the second event associated with [AccidentNumber_DEN84LA080]?,FORCED_LANDING
+What is the aircraft damage associated with [AccidentNumber_FTW03LA143]?,Substantial
+What airworthiness certificate does [Registration_N502CL] have?,Normal
+What aircraft category does [Registration_N9794M] belong to?,Airplane
+What is the third event associated with [AccidentNumber_DEN83LA132]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What environmental issue caused [AccidentNumber_CHI01LA194]?,___Unknown___EnvironmentalIssue
+What is the Flight Crew associated with [AccidentNumber_MIA87FA220]?,PILOT_IN_COMMAND
+What is the first event associated with [AccidentNumber_NYC96LA069]?,HARD_LANDING
+What does [Registration_N60BR] have in terms of an emergency locator transmitter?,"Installed, activated, did not aid in locating accident"
+What is the first event associated with [AccidentNumber_MIA99GA072]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_VEHICLE
+What is the seat occupancy associated with [Pilot_IAD03FA035]?,Left
+What is the Flight Crew associated with [AccidentNumber_MIA87LA123]?,PILOT_IN_COMMAND
+What was the result of the last inspection for [Registration_N4874G]?,100 Hour
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_ANC01LA066]?,OTHER_MAINTENANCE_PERSONNEL
+What is the seat occupancy associated with [Pilot_ATL04CA172]?,Left
+What certificate does [Pilot_ATL02FA113] have?,AirlineTransport;Commercial
+What is the Federal Aviation Regulation associated with [AccidentNumber_CHI04LA084]?,Part121AirCarrier-Scheduled
+What is the Flight Crew associated with [AccidentNumber_FTW93LA079]?,PILOT_IN_COMMAND
+What is the Federal Aviation Regulation associated with [AccidentNumber_SEA01LA110]?,Part91GeneralAviation-Personal
+What is the Federal Aviation Regulation associated with [AccidentNumber_LAX03LA123]?,Part91GeneralAviation-Personal
+What is the landing gear associated with [Registration_N97996]?,Tricycle
+What caused [AccidentNumber_MKC84LA160]?,FUELSUPPLY|PLANNING/DECISION|FLUIDFUEL
+What aircraft category does [Registration_N36SK] belong to?,Airplane
+What is the runway surface condition associated with [AccidentNumber_LAX05LA025]?,___Unknown___RunwaySurfaceCondition
+What is the restraint used associated with [Pilot_MIA02LA163]?,"Seatbelt, Shoulder harness"
+What caused [AccidentNumber_ATL93FA120]?,FUELSYSTEMCARBURETOR|MAINTENANCE
+What is the third event associated with [AccidentNumber_LAX89LA142]?,ON_GROUND/WATER_ENCOUNTER_WITH_TERRAIN/WATER
+What is the instrument flight rules approach associated with [AccidentNumber_ATL05CA095]?,___Unknown___InstrumentFlightRulesApproach
+What is the lowest cloud condition associated with [AccidentNumber_CHI01LA079]?,Clear
+What are the conditions at the accident site associated with [AccidentNumber_LAX02LA221]?,Visual Conditions
+What is the lowest cloud condition associated with [AccidentNumber_CHI02LA024]?,Clear
+What medical certification does [Pilot_ATL02FA162] have?,Class 3 Valid Medical--w/ waivers/lim.
+What certificate does [Pilot_MIA03LA035] have?,Private
+What is the aircraft issue that caused [AccidentNumber_NYC02FA126]?,___Unknown___AircraftIssue
+What is the second event associated with [AccidentNumber_ANC98LA105]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the seat occupancy associated with [Pilot_ANC01LA141]?,Front
+What is the total injury associated with [AccidentNumber_SEA01LA124]?,2 None
+What medical certification does [Pilot_MIA02LA057] have?,Class 1 Valid Medical--no waivers/lim.
+What aircraft category does [Registration_N32DS] belong to?,Airplane
+What is the airport associated with [AccidentNumber_LAX02LA037]?,___Unknown___Airport
+What is the first event associated with [AccidentNumber_CHI01LA195]?,"IN_FLIGHT_COLLISION_WITH_OBJECT_-_WIRE,STATIC"
+What is the first event associated with [AccidentNumber_DEN03LA061]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the airport associated with [AccidentNumber_CHI01LA263]?,___Unknown___Airport
+What certificate does [Pilot_ATL05CA056] have?,Private
+What is the Flight Crew associated with [AccidentNumber_LAX87LA201]?,PILOT_IN_COMMAND(CFI)
+What is the Federal Aviation Regulation associated with [AccidentNumber_ANC01LA097]?,Part91GeneralAviation-Personal
+What is the crew injury associated with [AccidentNumber_MIA02FAMS1]?,1 Fatal
+What are the conditions at the accident site associated with [AccidentNumber_DEN04LA001]?,Visual Conditions
+What certificate does [Pilot_MIA03LA116] have?,Private
+What is the engine manufacturer associated with [Registration_N402RW]?,Pratt&WhitneyCanada
+What is the third event associated with [AccidentNumber_FTW86FA075]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Visual Flight Rules approach associated with [AccidentNumber_CHI05LA064]?,FullStop
+What is the airplane rating associated with [Pilot_FTW03FA028]?,Single-engineLand
+What is the second event associated with [AccidentNumber_FTW87DPJ01]?,FORCED_LANDING
+What environmental issue caused [AccidentNumber_CHI03LA244]?,___Unknown___EnvironmentalIssue
+What is the runway surface type associated with [AccidentNumber_SEA02LA046]?,Asphalt
+What is the third event associated with [AccidentNumber_CHI99LA016]?,UNDERSHOOT
+What engine is associated with [Registration_N9311T]?,1Reciprocating
+What is the Flight Crew associated with [AccidentNumber_ANC88LA035]?,PILOT_IN_COMMAND(CFI)
+What is the Flight Crew associated with [AccidentNumber_ATL86LA033]?,PILOT_IN_COMMAND
+What is the engine manufacturer associated with [Registration_N88BM]?,Lycoming
+What is the Flight Crew associated with [AccidentNumber_CHI83FA125]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_LAX03LA163]?,PILOT_IN_COMMAND
+What aircraft category does [Registration_N21213] belong to?,Airplane
+What is the engine manufacturer associated with [Registration_N270JS]?,Lycoming
+What airspace is associated with [AccidentNumber_DFW05LA115]?,WreckageAndImpactInformation
+What is the airplane rating associated with [Pilot_LAX04CA200]?,Single-engineLand
+What is the runway surface type associated with [AccidentNumber_ANC05FA039]?,Grass/turf
+What caused [AccidentNumber_ATL88FA131]?,VFRFLIGHTINTOIMC|OVERCONFIDENCEINPERSONALABILITY|TERRAINCONDITION|WEATHERCONDITION
+What is the second event associated with [AccidentNumber_DEN86LA072]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the clearance associated with [AccidentNumber_FTW03LA001]?,VFR
+What caused [AccidentNumber_LAX98LA037]?,FLUIDFUEL|TERRAINCONDITION
+What is the Flight Crew associated with [AccidentNumber_BFO93LA064]?,PILOT_IN_COMMAND
+What is the first event associated with [AccidentNumber_ATL04LA167]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_FENCE_POST
+What caused [AccidentNumber_LAX05CA128]?,FLARE
+What is the third event associated with [AccidentNumber_CHI84LA323]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What airworthiness certificate does [Registration_N4401X] have?,Normal
+What engine is associated with [Registration_N2221X]?,1Reciprocating
+What [instrument rating] does [Pilot_DEN05LA019] have?,Airplane
+What airworthiness certificate does [Registration_N3171S] have?,Normal
+What is the total injury associated with [AccidentNumber_ANC05CA054]?,1 None
+What is the third event associated with [AccidentNumber_SEA04FA031]?,FORCED_LANDING
+Who was the responsible for maintainence and repair for the accident associated with [AccidentNumber_LAX94LA233]?,COMPANY_MAINTENANCE_PERSONNEL
+What environmental issue caused [AccidentNumber_FTW03LA091]?,___Unknown___EnvironmentalIssue
+What caused [AccidentNumber_ATL85LA001]?,PREFLIGHTPLANNING/PREPARATION|FUELSUPPLY|FLUIDFUEL|TERRAINCONDITION
+What is the seat occupancy associated with [Pilot_NYC04CA022]?,Left
+What is the airplane rating associated with [Pilot_ATL03LA086]?,Single-engineLand
+In which country did [AccidentNumber_DEN05FA002] occur?,NM
+What [instrument rating] does [Pilot_NYC04LA063] have?,Airplane
+What was the result of the last inspection for [Registration_N5593E]?,100 Hour
+What is the seat occupancy associated with [Pilot_ATL01LA045]?,Left
+What is the engine manufacturer associated with [Registration_N70522]?,Continental
+In which country did [AccidentNumber_LAX03LA081] occur?,CA
+What caused [AccidentNumber_DEN02LA067]?,CLEARANCE
+What is the second event associated with [AccidentNumber_NYC06LA167]?,FORCED_LANDING
+What aircraft category does [Registration_N7448G] belong to?,Airplane
+What is the fourth event associated with [AccidentNumber_CHI83LA159]?,NOSE_OVER
+What is the airplane rating associated with [Pilot_MIA01LA207]?,Multi-engineLand;Single-engineLand
+What caused [AccidentNumber_DEN05LA109]?,DIRECTIONALCONTROL|WEATHERCONDITION
+What is the second event associated with [AccidentNumber_ANC06LA043]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the airplane rating associated with [Pilot_LAX03FA147]?,Multi-engineLand;Single-engineLand
+What is the second event associated with [AccidentNumber_MIA85FA071]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_LAX91LA337]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_CHI95LA303]?,PILOT_IN_COMMAND
+What is the condition of light associated with [AccidentNumber_CHI04CA219]?,Day
+What certificate does [Pilot_FTW03FA055] have?,Commercial
+What is the first event associated with [AccidentNumber_ATL83LA080]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What is the aircraft damage associated with [AccidentNumber_ATL02LA029]?,Substantial
+What is the Flight Crew associated with [AccidentNumber_FTW94LA081]?,PILOT_IN_COMMAND
+What engine is associated with [Registration_N4952J]?,1Reciprocating
+What is the aircraft damage associated with [AccidentNumber_DEN05CA001]?,Substantial
+What is the Federal Aviation Regulation associated with [AccidentNumber_MIA03LA035]?,Part91GeneralAviation-Personal
+What is the restraint used associated with [Pilot_ANC03LA011]?,"Seatbelt, Shoulder harness"
+What is the runway surface type associated with [AccidentNumber_CHI03FA291]?,Asphalt;Concrete
+What is the third event associated with [AccidentNumber_SEA96FA039]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What environmental issue caused [AccidentNumber_ATL02FA008]?,___Unknown___EnvironmentalIssue
+What is the airplane rating associated with [Pilot_IAD02LA080]?,Single-engineLand
+What is the Visual Flight Rules approach associated with [AccidentNumber_DFW05CA177]?,ForcedLanding
+What caused [AccidentNumber_DEN04LA056]?,OBJECT|FLUIDFUEL|FLIGHTPLANNING/DECISION|LIGHTCONDITION
+What is the fourth event associated with [AccidentNumber_SEA07LA118]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the first event associated with [AccidentNumber_SEA99LA079]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the second event associated with [AccidentNumber_DEN88DTM01]?,FORCED_LANDING
+What is the Federal Aviation Regulation associated with [AccidentNumber_FTW03LA091]?,Part91GeneralAviation-FlightTest
+What is the second event associated with [AccidentNumber_ANC02LA110]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the total injury associated with [AccidentNumber_CHI01LA078]?,2 None
+What is the first event associated with [AccidentNumber_ANC05CA054]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the Flight Crew associated with [AccidentNumber_IAD05LA093]?,PILOT_IN_COMMAND(CFI)
+What is the aircraft damage associated with [AccidentNumber_DEN04LA001]?,Substantial
+What certificate does [Pilot_CHI04FA133] have?,Private
+What is the condition of light associated with [AccidentNumber_CHI03LA143]?,Night/Dark
+What certificate does [Pilot_LAX04LA199] have?,Private
+What was the result of the last inspection for [Registration_N24KJ]?,Annual
+What airspace is associated with [AccidentNumber_ANC03LA016]?,ClassG
+What is the first event associated with [AccidentNumber_DEN85FA035]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What caused [AccidentNumber_LAX94LA002]?,ALTITUDE|REMEDIALACTION|PROPERGLIDEPATH
+What was the result of the last inspection for [Registration_N248ND]?,100 Hour
+What engine is associated with [Registration_N6981B]?,1Reciprocating
+What is the first event associated with [AccidentNumber_MIA01LA207]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the seat occupancy associated with [Pilot_NYC02FA152]?,Left
+What caused [AccidentNumber_ANC97LA066]?,COMPENSATIONFORWINDCONDITIONS|DIRECTIONALCONTROL|WEATHERCONDITION
+What is the crew injury associated with [AccidentNumber_LAX02LA036]?,1 Minor
+What was the result of the last inspection for [Registration_N136GR]?,Annual
+What is the first event associated with [AccidentNumber_NYC85LA168]?,LOSS_OF_ENGINE_POWER
+What caused [AccidentNumber_ATL83LA080]?,GROUNDLOOP/SWERVE|GEAREXTENSION|DIRECTIONALCONTROL
+What is the first event associated with [AccidentNumber_NYC04LA042]?,MISCELLANEOUS/OTHER
+What are the conditions at the accident site associated with [AccidentNumber_ANC04LA060]?,Visual Conditions
+What is the runway surface condition associated with [AccidentNumber_SEA04FA032]?,___Unknown___RunwaySurfaceCondition
+What engine is associated with [Registration_N4789G]?,1Reciprocating
+What are the conditions at the accident site associated with [AccidentNumber_MIA02LA163]?,Visual Conditions
+What is the lowest cloud condition associated with [AccidentNumber_SEA03LA035]?,Clear
+What medical certification does [Pilot_NYC04CA020] have?,Class 2 Valid Medical--w/ waivers/lim.
+What is the aircraft issue that caused [AccidentNumber_CHI04CA219]?,___Unknown___AircraftIssue
+What engine is associated with [Registration_N3855C]?,2Reciprocating
+What is the second event associated with [AccidentNumber_DEN06LA055]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_OTHER
+What is the first event associated with [AccidentNumber_ATL01LA029]?,AIRFRAME/COMPONENT/SYSTEM_FAILURE/MALFUNCTION
+What is the engine manufacturer associated with [Registration_N15SA]?,Lycoming
+What environmental issue caused [AccidentNumber_NYC04LA042]?,___Unknown___EnvironmentalIssue
+What certificate does [Pilot_ATL05CA123] have?,Commercial
+What aircraft category does [Registration_N9864F] belong to?,Airplane
+What is the second event associated with [AccidentNumber_MIA98LA218]?,FORCED_LANDING
+What is the landing gear associated with [Registration_N8681T]?,Tricycle
+What is the aircraft issue that caused [AccidentNumber_MIA02LA057]?,___Unknown___AircraftIssue
+What is the third event associated with [AccidentNumber_MIA02FA048]?,DITCHING
+What is the Flight Crew associated with [AccidentNumber_ATL92LA055]?,PILOT_IN_COMMAND
+What is the aircraft manufacturer associated with [Registration_N737WQ]?,Cessna
+What is the Flight Crew associated with [AccidentNumber_ANC07LA018]?,PILOT_IN_COMMAND
+What is the third event associated with [AccidentNumber_LAX87DUM01]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What was the result of the last inspection for [Registration_N3310K]?,Annual
+What is the instrument flight rules approach associated with [AccidentNumber_ATL02FA113]?,ILS
+What engine is associated with [Registration_N2008X]?,1Reciprocating
+What airworthiness certificate does [Registration_N7445E] have?,Normal
+What is the first event associated with [AccidentNumber_CHI04LA039]?,LOSS_OF_ENGINE_POWER
+What is the crew injury associated with [AccidentNumber_CHI05LA173]?,2 None
+What is the runway surface condition associated with [AccidentNumber_LAX04FA001]?,___Unknown___RunwaySurfaceCondition
+What is the aircraft damage associated with [AccidentNumber_FTW04FA054]?,Destroyed
+What is the first event associated with [AccidentNumber_MIA92LA021]?,MISCELLANEOUS/OTHER
+What is the runway surface type associated with [AccidentNumber_CHI05CA039]?,___Unknown___RunwaySurfaceType
+What medical certification does [Pilot_IAD05LA022] have?,Class 1 Valid Medical--no waivers/lim.
+What is the fourth event associated with [AccidentNumber_FTW88DRA10]?,NOSE_OVER
+What is the first event associated with [AccidentNumber_NYC95FA210]?,LOSS_OF_ENGINE_POWER
+What is the Aircraft Explosion associated with [AccidentNumber_CHI05CA209]?,___Unknown___AircraftExplosion
+What is the Flight Crew associated with [AccidentNumber_LAX05LA221]?,PILOT_IN_COMMAND(CFI)
+What is the Flight Crew associated with [AccidentNumber_LAX85LA235]?,PILOT_IN_COMMAND
+What airworthiness certificate does [Registration_N301CS] have?,Experimental
+What certificate does [Pilot_LAX04LA254] have?,FlightInstructor;Commercial
+What is the clearance associated with [AccidentNumber_LAX01LA135]?,VFR
+What are the conditions at the accident site associated with [AccidentNumber_DFW05CA174]?,Visual Conditions
+What engine is associated with [Registration_N8240P]?,1Reciprocating
+What is the second event associated with [AccidentNumber_IAD98LA065]?,FORCED_LANDING
+What is the third event associated with [AccidentNumber_FTW91LA071]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_ANIMAL(S)
+What is the Visual Flight Rules approach associated with [AccidentNumber_CHI03FA238B]?,FullStop;TrafficPattern
+What is the second event associated with [AccidentNumber_FTW87FA043]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What airworthiness certificate does [Registration_N195AF] have?,Normal
+What caused [AccidentNumber_ATL03LA050]?,WEATHERCONDITION|VFRFLIGHTINTOIMC|AIRSPEED
+What is the condition of light associated with [AccidentNumber_FTW02LA194]?,Day
+What is the Flight Crew associated with [AccidentNumber_MIA93LA042]?,DUAL_STUDENT|PILOT_IN_COMMAND(CFI)
+What airworthiness certificate does [Registration_N62269] have?,Normal
+What instructor rating does [Pilot_IAD05LA093] have?,Airplane Single-engine
+What is the first event associated with [AccidentNumber_NYC90LA209]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What caused [AccidentNumber_ANC86LA053]?,TERRAINCONDITION|SELF|JUDGMENT|PLANNING/DECISION|CHECKLIST
+What is the seat occupancy associated with [Pilot_CHI01LA078]?,Left
+What is the restraint used associated with [Pilot_CHI01LA061]?,"Seatbelt, Shoulder harness"
+What is the third event associated with [AccidentNumber_ANC05CA040]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the condition of light associated with [AccidentNumber_NYC02LA024]?,Day
+What passanger injury is associated with [AccidentNumber_CHI03FA238B]?,1 None
+What is the aircraft damage associated with [AccidentNumber_MIA03LA021]?,Substantial
+What is the landing gear associated with [Registration_N7059F]?,Skid
+What is the crew injury associated with [AccidentNumber_CHI02LA018]?,1 None
+What airworthiness certificate does [Registration_N5006V] have?,Restricted
+In which country did [AccidentNumber_DFW05CA097] occur?,OK
+What is the Flight Crew associated with [AccidentNumber_DEN85FA035]?,PILOT_IN_COMMAND
+What is the third event associated with [AccidentNumber_FTW83LA214]?,"DRAGGED_WING,ROTOR,POD,FLOAT_OR_TAIL/SKID"
+What is the Flight Crew associated with [AccidentNumber_FTW95LA223]?,PILOT_IN_COMMAND
+What are the conditions at the accident site associated with [AccidentNumber_CHI04LA187]?,Visual Conditions
+What caused [AccidentNumber_SEA91LA032]?,DESIGNSTRESSLIMITSOFAIRCRAFT|STALL/SPIN|AIRSPEEDVSO
+What is the engine model associated with [Registration_N9062D]?,O-320
+What medical certification does [Pilot_SEA02FA023] have?,Class 1 Valid Medical--no waivers/lim.
+What is the condition of light associated with [AccidentNumber_IAD02LA080]?,Day
+In which country did [AccidentNumber_DFW05LA027] occur?,OK
+What is the total injury associated with [AccidentNumber_CHI05LA109]?,2 None
+What does [Registration_N2008X] have in terms of an emergency locator transmitter?,___Unknown___ELT
+What engine is associated with [Registration_N9091D]?,1Reciprocating
+What is the second event associated with [AccidentNumber_DEN91FA002]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the first event associated with [AccidentNumber_LAX93LA023]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the Flight Crew associated with [AccidentNumber_ATL91FA074]?,PILOT_IN_COMMAND
+What environmental issue caused [AccidentNumber_ANC02LA012]?,___Unknown___EnvironmentalIssue
+What aircraft category does [Registration_N32TN] belong to?,Airplane
+What is the first event associated with [AccidentNumber_LAX84LA088]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the fourth event associated with [AccidentNumber_NYC87FA215]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What certificate does [Pilot_LAX05CA001] have?,Commercial
+What is the seat occupancy associated with [Pilot_CHI03LA294]?,Left
+What is the total injury associated with [AccidentNumber_MIA02FA037]?,2 Fatal
+What airspace is associated with [AccidentNumber_NYC05CA079]?,AirportInformation
+What is the condition of light associated with [AccidentNumber_SEA04LA063A]?,Day
+What is the total injury associated with [AccidentNumber_FTW03FA055]?,1 Fatal
+What is the second event associated with [AccidentNumber_ATL91FA074]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What instructor rating does [Pilot_NYC04CA150] have?,___Unknown___InstructorRating
+What is the first event associated with [AccidentNumber_LAX03LA080]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_VEHICLE
+What is the second event associated with [AccidentNumber_FTW88FA085]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the total injury associated with [AccidentNumber_NYC05CA047]?,1 None
+What caused [AccidentNumber_CHI91DCA01]?,REMEDIALACTION|DIRECTIONALCONTROL|ABORTEDTAKEOFF
+What is the second event associated with [AccidentNumber_CHI86FEC06]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Flight Crew associated with [AccidentNumber_FTW94LA079]?,PILOT_IN_COMMAND
+What airworthiness certificate does [Registration_N65021] have?,Normal
+What [instrument rating] does [Pilot_MIA02FA162] have?,Airplane
+What is the first event associated with [AccidentNumber_FTW03FA027]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What caused [AccidentNumber_FTW96LA367]?,FUELSUPPLY|PLANNING/DECISION|FLUIDFUEL|TERRAINCONDITION
+What was the result of the last inspection for [Registration_C-GVVS]?,Annual
+What engine is associated with [Registration_N36TL]?,2Reciprocating
+What is the Flight Crew associated with [AccidentNumber_CHI05CA039]?,PILOT_IN_COMMAND
+What is the aircraft fire associated with [AccidentNumber_MIA01FA206]?,On-Ground
+What is the Federal Aviation Regulation associated with [AccidentNumber_CHI03LA143]?,Part91GeneralAviation-Business
+What airspace is associated with [AccidentNumber_CHI02LA057]?,AirportInformation
+What is the condition of light associated with [AccidentNumber_LAX03LA019]?,Day
+What is the restraint used associated with [Pilot_CHI01LA060]?,"Seatbelt, Shoulder harness"
+What is the aircraft manufacturer associated with [Registration_N7006A]?,Cessna
+What is the second event associated with [AccidentNumber_DEN84LA053]?,MAIN_GEAR_COLLAPSED
+What is the aircraft manufacturer associated with [Registration_N516UA]?,Boeing
+What is the runway surface condition associated with [AccidentNumber_CHI01FA111]?,Wet
+What caused [AccidentNumber_FTW84FA216]?,ELECTRICALSYSTEM|FUELSYSTEM
+What is the first event associated with [AccidentNumber_LAX91FA117]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_TURBULENCE
+What are the operating certificates held by [Registration_N4759R]?,On-demand Air Taxi (135)
+What is the condition of light associated with [AccidentNumber_ATL05CA056]?,Night
+What is the runway surface condition associated with [AccidentNumber_IAD02LA039]?,___Unknown___RunwaySurfaceCondition
+What is the aircraft issue that caused [AccidentNumber_LAX01LA083]?,___Unknown___AircraftIssue
+What is the airport associated with [AccidentNumber_DEN03LA020]?,___Unknown___Airport
+What is the airplane rating associated with [Pilot_NYC04FA136]?,Single-engineLand
+What is the third event associated with [AccidentNumber_LAX97LA060]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the aircraft issue that caused [AccidentNumber_NYC02LA024]?,___Unknown___AircraftIssue
+What is the runway surface condition associated with [AccidentNumber_CHI04CA219]?,___Unknown___RunwaySurfaceCondition
+What aircraft category does [Registration_N7445E] belong to?,Airplane
+What was the result of the last inspection for [Registration_N4952J]?,100 Hour
+What is the third event associated with [AccidentNumber_MKC87LA100]?,ON_GROUND/WATER_COLLISION_WITH_OBJECT_-_FENCE
+What airworthiness certificate does [Registration_G-GMAC] have?,Transport
+What flight plan was filed for [AccidentNumber_CHI01FA129]?,IFR
+What is the Flight Crew associated with [AccidentNumber_CHI83LA344]?,PILOT_IN_COMMAND
+What is the landing gear associated with [Registration_N2184N]?,Retractable-Tricycle
+What is the second event associated with [AccidentNumber_FTW03FA071]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the engine manufacturer associated with [Registration_N5091X]?,Lycoming
+What is the Visual Flight Rules approach associated with [AccidentNumber_DFW05LA026]?,ForcedLanding
+What is the third event associated with [AccidentNumber_CHI96LA123]?,NOSE_OVER
+What is the seat occupancy associated with [Pilot_LAX02LA146]?,Left
+What is the restraint used associated with [Pilot_LAX04CA200]?,"Seatbelt, Shoulder harness"
+What is the second event associated with [AccidentNumber_CHI84LA100]?,NOSE_GEAR_COLLAPSED
+In which country did [AccidentNumber_FTW01FA111] occur?,TX
+What was the result of the last inspection for [Registration_N22RJ]?,Annual
+What is the engine model associated with [Registration_N88110]?,O-320
+What is the Federal Aviation Regulation associated with [AccidentNumber_FTW04LA202B]?,Part91GeneralAviation-Personal
+What [instrument rating] does [Pilot_ATL05CA068] have?,Airplane
+What is the second event associated with [AccidentNumber_ANC00LA053]?,ROLL_OVER
+What medical certification does [Pilot_ANC05LA021] have?,Class 3 With Waivers/Limitations
+What is the first event associated with [AccidentNumber_LAX01FA001]?,IN_FLIGHT_ENCOUNTER_WITH_WEATHER_-_CLOUDS
+What is the Flight Crew associated with [AccidentNumber_LAX05CA128]?,PILOT_IN_COMMAND
+What is the landing gear associated with [Registration_N4269B]?,Tailwheel
+What does [Registration_N3895D] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the aircraft issue that caused [AccidentNumber_FTW04LA199]?,___Unknown___AircraftIssue
+What is the airport associated with [AccidentNumber_LAX02FA038]?,___Unknown___Airport
+What is the third event associated with [AccidentNumber_CHI84LA100]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the first event associated with [AccidentNumber_MIA82FLD13]?,LOSS_OF_CONTROL_-_IN_FLIGHT
+What is the crew injury associated with [AccidentNumber_DEN01LA047]?,1 None
+What are the conditions at the accident site associated with [AccidentNumber_IAD04LA027]?,Visual Conditions
+What is the third event associated with [AccidentNumber_LAX86LA105]?,LOSS_OF_CONTROL_-_ON_GROUND/WATER
+What is the lowest cloud condition associated with [AccidentNumber_ANC01LA066]?,Clear
+What is the first event associated with [AccidentNumber_BFO87FA050]?,"IN_FLIGHT_COLLISION_WITH_OBJECT_-_WIRE,STATIC"
+What is the Flight Crew associated with [AccidentNumber_NYC01LA030]?,PILOT_IN_COMMAND
+What is the third event associated with [AccidentNumber_LAX85LA336]?,HARD_LANDING
+What environmental issue caused [AccidentNumber_LAX03LA177]?,___Unknown___EnvironmentalIssue
+What caused [AccidentNumber_FTW02LA001]?,TERRAINCONDITION|REASONFOROCCURRENCEUNDETERMINED
+What environmental issue caused [AccidentNumber_ATL01LA063B]?,___Unknown___EnvironmentalIssue
+What is the engine model associated with [Registration_N7180Q]?,O-360-A4M
+What is the first event associated with [AccidentNumber_LAX99LA293]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_NONMECHANICAL
+In which country did [AccidentNumber_NYC02LA179] occur?,MA
+What is the Federal Aviation Regulation associated with [AccidentNumber_ATL05CA123]?,Part91GeneralAviation-Personal
+What does [Registration_N77618] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What is the lowest cloud condition associated with [AccidentNumber_FTW01LA045]?,Clear
+What are the operating certificates held by [Registration_N5006V]?,___Unknown___OperatingCertificatesHeld
+What airworthiness certificate does [Registration_N704JB] have?,Normal
+What are the conditions at the accident site associated with [AccidentNumber_MIA03LA116]?,Visual Conditions
+What is the Flight Crew associated with [AccidentNumber_FTW95LA374]?,PILOT_IN_COMMAND
+What is the runway surface condition associated with [AccidentNumber_CHI05CA209]?,___Unknown___RunwaySurfaceCondition
+What is the runway surface condition associated with [AccidentNumber_NYC03LA003]?,Dry
+What is the second event associated with [AccidentNumber_LAX85FA038]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What does [Registration_N8173J] have in terms of an emergency locator transmitter?,___Unknown___ELT
+What is the Flight Crew associated with [AccidentNumber_ANC88LA091]?,PILOT_IN_COMMAND
+What is the Flight Crew associated with [AccidentNumber_SEA87LA001]?,PILOT_IN_COMMAND
+What environmental issue caused [AccidentNumber_SEA04LA064]?,___Unknown___EnvironmentalIssue
+What is the engine manufacturer associated with [Registration_N161D]?,___Unknown___EngineManufacturer
+What is the aircraft damage associated with [AccidentNumber_LAX03CA274]?,Substantial
+What is the seat occupancy associated with [Pilot_LAX03LA146]?,Right
+What is the Flight Crew associated with [AccidentNumber_SEA03LA035]?,PILOT_IN_COMMAND
+What aircraft category does [Registration_N6613G] belong to?,Airplane
+What is the Flight Crew associated with [AccidentNumber_CHI91DCA01]?,PILOT_IN_COMMAND
+What is the condition of light associated with [AccidentNumber_LAX05LA155]?,Day
+What aircraft category does [Registration_N618MN] belong to?,Airplane
+What caused [AccidentNumber_NYC95LA098]?,PREFLIGHTPLANNING/PREPARATION|FLUIDFUEL
+In which country did [AccidentNumber_DEN01LA062] occur?,CO
+What engine is associated with [Registration_N6517E]?,1Reciprocating
+What is the Federal Aviation Regulation associated with [AccidentNumber_FTW02FA195]?,Part91GeneralAviation-Personal
+What is the first event associated with [AccidentNumber_ATL88FA052]?,LOSS_OF_ENGINE_POWER(TOTAL)_-_MECH_FAILURE/MALF
+What is the aircraft issue that caused [AccidentNumber_DEN04LA019]?,___Unknown___AircraftIssue
+What is the Flight Crew associated with [AccidentNumber_FTW93LA224]?,PILOT_IN_COMMAND
+What medical certification does [Pilot_ATL01LA045] have?,Class 3 Valid Medical--no waivers/lim.
+What is the first event associated with [AccidentNumber_DEN05CA018]?,HARD_LANDING
+What is the airplane rating associated with [Pilot_NYC03FA001]?,Single-engineLand
+What is the condition of light associated with [AccidentNumber_SEA04LA093]?,Day
+What aircraft category does [Registration_N673KD] belong to?,Airplane
+What is the third event associated with [AccidentNumber_LAX05LA221]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What caused [AccidentNumber_LAX88LA079]?,DIVERTEDATTENTION|WEATHERCONDITION|TERRAINCONDITION|FLIGHTPLANNING/DECISION|WEATHEREVALUATION
+What airspace is associated with [AccidentNumber_MIA03TA036]?,ClassG
+What caused [AccidentNumber_CHI03FA003]?,WEATHERCONDITION|VFRFLIGHTINTOIMC|LIGHTCONDITION|PREFLIGHTPLANNING/PREPARATION
+What is the fourth event associated with [AccidentNumber_MIA98LA066]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_TREE(S)
+What is the Flight Crew associated with [AccidentNumber_LAX94LA003]?,PILOT_IN_COMMAND
+What is the engine manufacturer associated with [Registration_N204RH]?,TeledyneContinental
+What is the seat occupancy associated with [Pilot_FTW01LA045]?,Left
+What is the restraint used associated with [Pilot_DEN01LA100]?,"Seatbelt, Shoulder harness"
+What are the conditions at the accident site associated with [AccidentNumber_NYC04CA150]?,Visual Conditions
+What is the clearance associated with [AccidentNumber_ANC03LA087]?,VFR
+What is the aircraft manufacturer associated with [Registration_N70800]?,Cessna
+What is the Flight Crew associated with [AccidentNumber_NYC82DA015]?,PILOT_IN_COMMAND
+What is the aircraft manufacturer associated with [Registration_N7510W]?,Piper
+What is the airplane rating associated with [Pilot_CHI03LA242]?,Single-engineLand
+What is the Visual Flight Rules approach associated with [AccidentNumber_FTW04LA090]?,TrafficPattern
+What is the airplane rating associated with [Pilot_DFW05LA153]?,Single-engineLand
+What is the fourth event associated with [AccidentNumber_FTW98FA291]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Visual Flight Rules approach associated with [AccidentNumber_LAX03LA163]?,FullStop;TrafficPattern
+What caused [AccidentNumber_LAX82DA126]?,PREFLIGHTPLANNING/PREPARATION|FUELSYSTEMCAP|FLUIDFUEL|TERRAINCONDITION|LANDINGGEARNOSEGEAR
+What caused [AccidentNumber_FTW01LA135]?,WEATHERCONDITION|COMPENSATIONFORWINDCONDITIONS
+What is the condition of light associated with [AccidentNumber_FTW01LA074]?,Day
+What is the second event associated with [AccidentNumber_CHI91DCA01]?,IN_FLIGHT_COLLISION_WITH_OBJECT_-_VEHICLE
+What airspace is associated with [AccidentNumber_ATL04CA146]?,ClassG
+What airworthiness certificate does [Registration_N4468N] have?,Normal
+What was the result of the last inspection for [Registration_N521JD]?,___Unknown___TypeOfLastInspection
+What caused [AccidentNumber_ATL88FA025]?,WRONGRUNWAY|AIRSPEED|LIFTOFF|WEATHERCONDITION|ABORTEDTAKEOFF|STALL
+What is the third event associated with [AccidentNumber_CHI85LA083]?,NOSE_OVER
+In which country did [AccidentNumber_DEN05CA018] occur?,UT
+What caused [AccidentNumber_ANC02LA088]?,DIRECTIONALCONTROL
+What is the second event associated with [AccidentNumber_LAX82DA126]?,FORCED_LANDING
+What is the third event associated with [AccidentNumber_ATL02FA008]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What is the Visual Flight Rules approach associated with [AccidentNumber_CHI01LA061]?,FullStop;TrafficPattern
+What flight plan was filed for [AccidentNumber_DEN01LA100]?,IFR
+What is the total injury associated with [AccidentNumber_ANC03LA025]?,2 None
+What was the result of the last inspection for [Registration_N34168]?,Annual
+What is the second event associated with [AccidentNumber_ATL04LA088]?,FORCED_LANDING
+What flight plan was filed for [AccidentNumber_FTW02FA222]?,VFR
+What does [Registration_N3772D] have in terms of an emergency locator transmitter?,"Installed, not activated"
+What does [Registration_N9089L] have in terms of an emergency locator transmitter?,___Unknown___ELT
+What are the conditions at the accident site associated with [AccidentNumber_FTW04LA001]?,Visual Conditions
+What aircraft category does [Registration_N1928J] belong to?,Airplane
+What airworthiness certificate does [Registration_N106LN] have?,Normal
+What is the Flight Crew associated with [AccidentNumber_MIA89LA001]?,PILOT_IN_COMMAND(CFI)|DUAL_STUDENT
+What is the restraint used associated with [Pilot_NYC03FA001]?,Seatbelt
+What is the condition of light associated with [AccidentNumber_DEN04FA027B]?,Night
+What is the fourth event associated with [AccidentNumber_CHI04LA039]?,IN_FLIGHT_COLLISION_WITH_TERRAIN/WATER
+What certificate does [Pilot_ANC02LA012] have?,AirlineTransport
+What is the runway surface type associated with [AccidentNumber_MIA02LA076]?,Grass/turf
+What environmental issue caused [AccidentNumber_NYC02LA002]?,___Unknown___EnvironmentalIssue
+What is the condition of light associated with [AccidentNumber_CHI03FA238B]?,Day
+What is the crew injury associated with [AccidentNumber_LAX01LA231]?,1 None
+What engine is associated with [Registration_N1518Z]?,1TurboProp
+What aircraft category does [Registration_N340AE] belong to?,Airplane
+What is the restraint used associated with [Pilot_DEN03LA061]?,___Unknown___RestraintUsed
